@@ -139,7 +139,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.sycchen.com/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.sycchen.com/">Samuel Yen-Chi Chen</a>
@@ -157,7 +157,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://sites.google.com/site/pinyuchenpage/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/pychen.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/pychen.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://sites.google.com/site/pinyuchenpage/">Pin-Yu Chen</a>
@@ -196,7 +196,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.sycchen.com/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.sycchen.com/">Samuel Yen-Chi Chen</a>
@@ -214,7 +214,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://sites.google.com/site/pinyuchenpage/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/pychen.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/pychen.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://sites.google.com/site/pinyuchenpage/">Pin-Yu Chen</a>
