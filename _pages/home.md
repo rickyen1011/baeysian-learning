@@ -80,7 +80,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
     </p>
     <p>
           <ul>
-  <li><b>I. Introduction and Motivation for Quantum Computing and Quantum Machine Learning<b></li>
+  <li> <b>I. Introduction and Motivation for Quantum Computing and Quantum Machine Learning<b> </li>
   <li>Principles of Quantum Mechanics and Tensor Network Foundation (20 min);</li>
   <li>Introduction to Quantum Computing (5 min);</li>
   <li>Quantum Machine Learning and Quantum Neural Networks (15 min);</li>
@@ -90,7 +90,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
           </ul>
       </p>
       <p>Anticipated target audience (introductory, intermediate, advanced) as well as expected number of attendees 
-<b>Background:<b> linear algebra, basic understanding of class neural networks for speech recognition and natural language processing. All technical details will be provided with references and clear illustration and explanation. 
+ <b>Background:<b> linear algebra, basic understanding of class neural networks for speech recognition and natural language processing. All technical details will be provided with references and clear illustration and explanation. 
 </p><p>We will provide Quantum Simulation Support and hands-on exercise through an open-source repository for the audience base on 5 qubits IBM Q devices.  </p>
   </div>
 </div>
