@@ -112,7 +112,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
         Title: Demonstration of Quantum Circuits Learning for Spoken Commands Recognition
         </p>
         <p align="center">
-  <img src="https://raw.githubusercontent.com/huckiyang/QuantumSpeech-QCNN/main/images/demo.png" width="350" title="Quantum">
+  <img src="https://raw.githubusercontent.com/huckiyang/QuantumSpeech-QCNN/main/images/demo.png" width="150" title="Quantum">
 </p>
     <ul>
       <li><b>Quantum Machine Learning for Automatic Spoken-Term Recognition</b>: <a style="color:#2980b9;font-weight:400;" href="https://colab.research.google.com/drive/11Yi53W6-Z-uW84A8Sr6OqOMlBIel1PKM?usp=sharing">Google Colab</a>. </li>
