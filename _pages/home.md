@@ -239,7 +239,7 @@ Networks for Speech and Natural Language Processing (QuantumNN)</h1></center>
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.sycchen.com/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.sycchen.com/">Samuel Yen-Chi Chen</a>
