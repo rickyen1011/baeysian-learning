@@ -65,7 +65,36 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   </div>
 </div>
 
-<br />
+<hr />
+
+<div class="row" id="guidelines">
+  <div class="col-xs-12">
+    <h2>Demo</h2>
+  </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12">
+<!--       <p>
+            Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>.
+        </p> -->
+        <p>
+        Title: Demonstration of Quantum Circuits Learning for Spoken Commands Recognition
+        </p>
+        <p align="center">
+  <img src="https://raw.githubusercontent.com/huckiyang/QuantumSpeech-QCNN/main/images/demo.png" width="150" title="Quantum">
+</p>
+    <ul>
+      <li><b>Quantum Machine Learning for Automatic Spoken-Term Recognition</b>: <a style="color:#2980b9;font-weight:400;" href="https://colab.research.google.com/drive/11Yi53W6-Z-uW84A8Sr6OqOMlBIel1PKM?usp=sharing">Google Colab</a>. </li>
+<!--       <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
+    </ul>
+    <p>
+            In case of any issues, feel free to email the workshop organizers at: <a href="mailto:vigilworkshop@gmail.com">vigilworkshop@gmail.com</a>.
+    </p>
+    </div> -->
+<!-- </div> -->
+
+<hr />
 
 <div class="row" id="cfp">
   <div class="col-xs-12">
@@ -95,34 +124,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 </div>
 
 
-<br />
 
-<div class="row" id="guidelines">
-  <div class="col-xs-12">
-    <h2>Demo</h2>
-  </div>
-</div>
-
-<div class="row">
-    <div class="col-xs-12">
-<!--       <p>
-            Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>.
-        </p> -->
-        <p>
-        Title: Demonstration of Quantum Circuits Learning for Spoken Commands Recognition
-        </p>
-        <p align="center">
-  <img src="https://raw.githubusercontent.com/huckiyang/QuantumSpeech-QCNN/main/images/demo.png" width="150" title="Quantum">
-</p>
-    <ul>
-      <li><b>Quantum Machine Learning for Automatic Spoken-Term Recognition</b>: <a style="color:#2980b9;font-weight:400;" href="https://colab.research.google.com/drive/11Yi53W6-Z-uW84A8Sr6OqOMlBIel1PKM?usp=sharing">Google Colab</a>. </li>
-<!--       <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
-    </ul>
-    <p>
-            In case of any issues, feel free to email the workshop organizers at: <a href="mailto:vigilworkshop@gmail.com">vigilworkshop@gmail.com</a>.
-    </p>
-    </div> -->
-<!-- </div> -->
 
 
 <hr />
@@ -226,6 +228,8 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
     </div>
   </div>
 </div>
+
+
 
 <hr />
 
