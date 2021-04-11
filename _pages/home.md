@@ -45,21 +45,21 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Paper Submission Deadline</td>
-          <td> <b>March 19, 2021</b>(11:59 PM Pacific time)</td>
+          <td>ICASSP Show and Tell</td>
+          <td> <b>May 19, 2021</b>(11:59 AM Pacific time)</td>
         </tr>
         <tr>
-          <td>Decision Notifications</td>
-          <td>April 15, 2021</td>
+          <td>IJCAI Tutorial</td>
+          <td>August 26th , 2021</td>
         </tr>
-        <tr>
+<!--         <tr>
           <td>Camera Ready Paper Deadline</td>
           <td>May 15, 2021</td>
         </tr>
         <tr>
           <td>Workshop</td>
           <td>June 10, 2021</td>
-        </tr>
+        </tr> -->
       </tbody>
     </table>
   </div>
