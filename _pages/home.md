@@ -14,8 +14,8 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <center><h1>Quantum Neural
-Networks for Speech and Natural Language Processing (QuantumNN)</h1></center>
-    <center><h2>Montreal, 21st-26th August, 2021</h2></center>
+Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></center>
+    <center><h2>Montreal, 21st-26th August, IJCAI, 2021</h2></center>
     <center><h3 style="color:#005cb4"><b>News: We also have a show and tell session in ICASSP 2021.</b></h3></center>
   </div>
 </div>
@@ -69,35 +69,29 @@ Networks for Speech and Natural Language Processing (QuantumNN)</h1></center>
 
 <div class="row" id="cfp">
   <div class="col-xs-12">
-    <h2>Call for Papers</h2>
+    <h2>Sessions and Schedule</h2>
   </div>
 </div>
 
 <div class="row">
   <div class="col-xs-12">
     <p>
-      The authors are welcome to submit a 4-page paper based on in-progress work, or relevant paper being presented at the main conference, on any of the following topics:
+      This tutorial aims to serve as a short lecture for researchers and students to access the emergent field of quantum neural networks from the viewpoint of the artificial intelligence community. The contents of this tutorial will provide sufficient backgrounds for participants to understand the motivation, research progress, opportunities, and ongoing challenges in quantum neural network-based speech and natural language processing. The outline of this tutorial is as follows:
     </p>
     <p>
           <ul>
-  <li>grounded and interactive language acquisition;</li>
-  <li>reasoning and planning in language, vision, and interactive domains;</li>
-  <li>machine translation with visual cues;</li>
-  <li>transfer learning in language and vision tasks;</li>
-  <li>visual captioning, dialog, storytelling, and question-answering;</li>
-  <li>visual synthesis from language;</li>
-  <li>embodied agents: language instructions, agent co-ordination through language, interaction;</li>
-  <li>language-grounded robotic learning with multimodal inputs;</li>
-  <li>human-machine interaction with language through robots or within virtual world;</li>
-  <li>audio-visual scene understanding and dialog systems;</li>
-  <li>novel tasks that combine language, vision, interactions, and other modalities;</li>
-  <li>understanding and modeling the relationship between language and vision in humans;</li>
-  <li>semantic systems and modeling of natural language and visual stimuli representations in the human brain;</li>
-  <li>epistemology and research reflexions about language grounding, human embodiment and other related topics</li>
-  <li>visual and linguistic cognition in infancy and/or adults</li>
+  <li><b>I. Introduction and Motivation for Quantum Computing and Quantum Machine Learning<b></li>
+  <li>Principles of Quantum Mechanics and Tensor Network Foundation (20 min);</li>
+  <li>Introduction to Quantum Computing (5 min);</li>
+  <li>Quantum Machine Learning and Quantum Neural Networks (15 min);</li>
+  <li>II. The Fundamentals of Quantum Neural Networks </li>
+  <li>III. The Applications of Quantum Neural Networks for Speech and Language Processing </li>
+  <li>IV. Conclusion and Open Questions</li>
           </ul>
       </p>
-      <p>We welcome review and positional papers that may foster discussions. We also encourage published papers from <i>*non-ML*</i> conferences, e.g. epistemology, cognitive science, psychology, neuroscience, that are within the scope of the workshop. </p>
+      <p>Anticipated target audience (introductory, intermediate, advanced) as well as expected number of attendees 
+<b>Background:<b> linear algebra, basic understanding of class neural networks for speech recognition and natural language processing. All technical details will be provided with references and clear illustration and explanation. 
+</p><p>We will provide Quantum Simulation Support and hands-on exercise through an open-source repository for the audience base on 5 qubits IBM Q devices.  </p>
   </div>
 </div>
 
@@ -133,78 +127,41 @@ Networks for Speech and Natural Language Processing (QuantumNN)</h1></center>
     <h2>Speakers</h2>
   </div>
 </div>
-
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://homes.cs.washington.edu/~yejin/">
-      <img class="people-pic" src="{{ "/static/img/people/yejin-choi.jpg" | prepend:site.baseurl }}">
+    <a href="https://huckiyang.github.io/">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/huck.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://homes.cs.washington.edu/~yejin/">Yejin Choi</a>
-      <h6>University of Washington</h6>
+      <a href="https://huckiyang.github.io/">Chao-Han Huck Yang</a>
+      <h6>Georgia Insititue of Technology</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://people.eecs.berkeley.edu/~trevor/">
-      <img class="people-pic" src="{{ "/static/img/people/darrell.jpg" | prepend:site.baseurl }}">
+    <a href="https://www.sycchen.com/">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://people.eecs.berkeley.edu/~trevor/">Trevor Darrell</a>
-      <h6>Berkeley</h6>
+      <a href="https://www.sycchen.com/">Samuel Yen-Chi Chen</a>
+      <h6>Brookhaven National Laboratory</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.cs.cmu.edu/~katef/">
-      <img class="people-pic" src="{{ "/static/img/people/katerina-fragkiadaki.jpg" | prepend:site.baseurl }}">
+    <a href="https://sites.google.com/site/uwjunqi/home">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/jun.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.cs.cmu.edu/~katef/">Katerina Fragkiadaki</a>
-      <h6>CMU</h6>
+      <a href="https://sites.google.com/site/uwjunqi/home">Jun Qi</a>
+      <h6>Georgia Insititue of Technology</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.gold.ac.uk/computing/people/garagnani-max/">
-      <img class="people-pic" src="{{ "/static/img/people/max-garagnani.jpg" | prepend:site.baseurl }}">
+    <a href="https://sites.google.com/site/pinyuchenpage/">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/pychen.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.gold.ac.uk/computing/people/garagnani-max/">Max Garagnani</a>
-      <h6>Goldsmiths, University of London</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://web.eecs.umich.edu/~justincj/">
-      <img class="people-pic" src="{{ "/static/img/people/justin-johnson.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://web.eecs.umich.edu/~justincj/">Justin Johnson</a>
-      <h6>University of Michigan</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://www.mit.edu/~rplevy/">
-      <img class="people-pic" src="{{ "/static/img/people/roger-levy.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.mit.edu/~rplevy/">Roger Levy</a>
-      <h6>MIT</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://cs.brown.edu/people/stellex/">
-      <img class="people-pic" src="{{ "/static/img/people/stefanie-tellex.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://cs.brown.edu/people/stellex/">Stephanie Tellex</a>
-      <h6>Brown University</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://childdevelopment.northwestern.edu/">
-      <img class="people-pic" src="{{ "/static/img/people/sandra-waxman.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://childdevelopment.northwestern.edu/">Sandra Waxman</a>
-      <h6>Northwestern University</h6>
+      <a href="https://sites.google.com/site/pinyuchenpage/">Pin-Yu Chen</a>
+      <h6>IBM Research AI</h6>
     </div>
   </div>
 </div>
@@ -275,44 +232,17 @@ Networks for Speech and Natural Language Processing (QuantumNN)</h1></center>
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://mila.quebec/en/person/aaron-courville/">
-      <img class="people-pic" src="{{ "/static/img/people/aaron-courville-dp.jpg" | prepend:site.baseurl }}">
+    <a href="https://web.phys.ntu.edu.tw/goan/">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/goan.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://mila.quebec/en/person/aaron-courville/">Aaron Courville</a>
-      <h6>University of Montreal</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://www.mateuszmalinowski.com/">
-      <img class="people-pic" src="{{ "/static/img/people/mateusz-malinowski-dp.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.mateuszmalinowski.com/">Mateusz Malinowski</a>
-      <h6>DeepMind</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://www.lifl.fr/~pietquin/">
-      <img class="people-pic" src="{{ "/static/img/people/olivier-pietquin-dp.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://www.lifl.fr/~pietquin/">Olivier Pietquin</a>
-      <h6>Google Brain</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="http://www-etud.iro.umontreal.ca/~devries/">
-      <img class="people-pic" src="/static/img/people/harmdevries.jpg" />
-    </a>
-    <div class="people-name">
-      <a href="http://www-etud.iro.umontreal.ca/~devries/">Harm de Vries</a>
-      <h6>University of Montreal | Element AI</h6>
+      <a href="https://web.phys.ntu.edu.tw/goan/">Hsi-Sheng Goan</a>
+      <h6>National Taiwan University</h6>
     </div>
   </div>
 </div>
 
-<hr>
+<!-- <hr>
 <div class="row">
   <div class="col-xs-12">
     <h2>Previous Sessions</h2><a name="/prev_session"></a>
@@ -328,7 +258,7 @@ Networks for Speech and Natural Language Processing (QuantumNN)</h1></center>
             </ul>
         </p>
     </div>
-</div>
+</div> -->
 
 <hr />
 
@@ -340,13 +270,8 @@ Networks for Speech and Natural Language Processing (QuantumNN)</h1></center>
 <div class="row">
   <div class="col-md-12">
     <ol>
-<li>Y. Bisk, A. Holtzman, J. Thomason, J. Andreas, Y. Bengio, J. Chai, M. Lapata, A. Lazaridou, J. May, A. Nisnevich, N. Pinto,
-and J. Turian. Experience grounds language. In EMNLP, 2020. </li>
-<li>L. Smith and M. Gasser. The development of embodied cognition: Six lessons from babies. Artificial life, 11(1-2):13–29,
-2005. </li>
-<li>P. Anderson, Q. Wu, D. Teney, J. Bruce, M. Johnson, N. Sünderhauf, I. Reid, S. Gould, and A. van den Hengel. Vision-andlanguage Navigation: Interpreting Visually-grounded Navigation Instructions in Real Environments. In CVPR, 2018. </li>
-<li>A. Suhr, C. Yan, J. Schluger, S. Yu, H. Khader, M. Mouallem, I. Zhang, and Y. Artzi. Executing instructions in situated
-collaborative interactions. In EMNLP-IJCNLP, 2019. </li>
+<li>"Quantum machine learning in feature Hilbert spaces," M Schuld et al. , Physical review letters, 2019 </li>
+<li>"Variational quantum circuits for deep reinforcement learning" SYC Chen et al., IEEE 2020 </li><li>"Decentralizing feature extraction with quantum convolutional neural network for automatic speech recognition."" Proc. IEEE Intl. Conf. on Acoustic, Speech, and Signal Processing (ICASSP), Yang, C.H.H. et al., 2021 </li>
     </ol>
   </div>
 </div>
