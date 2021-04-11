@@ -1,4 +1,4 @@
-# vigilworkshop.github.io
-Webpage source files for ViGIL 3.0 workshop at NeurIPS 2019
+# quantum-ml-main
+Webpage source files for tutorial at IJCAI 201
 
-https://vigilworkshop.github.io/
+https://huckiyang.github.io/quantum-ml-main/
