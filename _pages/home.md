@@ -1,8 +1,9 @@
 ---
 layout: project
-urltitle:  "Visually Grounded Interaction and Language (ViGIL)"
-title: "Visually Grounded Interaction and Language (ViGIL)"
-categories: workshop, computer vision, natural language, grounding, interaction, machine learning, vigil, 2021
+urltitle:  "Quantum Neural Networks for Speech and Natural Language Processing (QuantumNN)"
+title: "Quantum Neural
+Networks for Speech and Natural Language Processing (QuantumNN)"
+categories: workshop, quantum circuit learning, machine learning, QuantumNN, 2021
 permalink: /
 bibtex: true
 paper: true

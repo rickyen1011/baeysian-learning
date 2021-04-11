@@ -19,7 +19,7 @@ var Prefix = ['1', '2', '3', '4',
                 '17', '18'
                 ];
 
-d3.json('/static/js/vd_ngram_random.json',
+d3.json('https://huckiyang.github.io/quantum-ml-main/static/js/vd_ngram_random.json',
         function(error, d) {
         if (error) return console.warn(error);
         json = d;
@@ -236,7 +236,7 @@ function doit(){
 
     // Use d3.text and d3.csv.parseRows so that we do not need to have a header
     // row, and can receive the csv as an array of arrays.
-    d3.text("/static/js/vd_visit-sequences.csv", function(text) {
+    d3.text("https://huckiyang.github.io/quantum-ml-main/static/js/vd_visit-sequences.csv", function(text) {
                        var csv = d3.csv.parseRows(text);
                        var json = buildHierarchy(csv);
                        createVisualization(json);
