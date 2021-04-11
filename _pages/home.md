@@ -15,7 +15,7 @@ acknowledgements: ""
     <center><h1>Quantum Neural
 Networks for Speech and Natural Language Processing (QuantumNN)</h1></center>
     <center><h2>Montreal, 21st-26th August, 2021</h2></center>
-    <center><h3 style="color:#BB3333"><b>Important: We also have a show and tell session in ICASSP 2021.</b></h3></center>
+    <center><h3 style="color:#005cb4"><b>News: We also have a show and tell session in ICASSP 2021.</b></h3></center>
   </div>
 </div>
 
@@ -228,21 +228,21 @@ Networks for Speech and Natural Language Processing (QuantumNN)</h1></center>
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://catalinacangea.netlify.app/">
-      <img class="people-pic" src="{{ "/static/img/people/catalinacangea.jpg" | prepend:site.baseurl }}">
+    <a href="https://huckiyang.github.io/">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/assets/img/hc1.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://catalinacangea.netlify.app/">Cătălina Cangea</a>
-      <h6>University of Cambridge</h6>
+      <a href="https://huckiyang.github.io/">Chao-Han Huck Yang</a>
+      <h6>Georgia Insititue of Technology</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://abhishekdas.com">
-      <img class="people-pic" src="{{ "/static/img/people/abhishek-das-dp.jpg" | prepend:site.baseurl }}">
+    <a href="https://www.sycchen.com/">
+      <img class="people-pic" src="{{ "/static/img/people/ycchen.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://abhishekdas.com">Abhishek Das</a>
-      <h6>Facebook AI Research</h6>
+      <a href="https://www.sycchen.com/">Samuel Yen-Chi Chen</a>
+      <h6>Brookhaven National Laboratory</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
