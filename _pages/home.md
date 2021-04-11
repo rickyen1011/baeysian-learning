@@ -69,7 +69,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 
 <div class="row" id="cfp">
   <div class="col-xs-12">
-    <h2>Sessions and Schedule</h2>
+    <h2>Schedule</h2>
   </div>
 </div>
 
@@ -157,7 +157,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://sites.google.com/site/pinyuchenpage/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/pychen.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/pychen.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://sites.google.com/site/pinyuchenpage/">Pin-Yu Chen</a>
@@ -214,7 +214,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://sites.google.com/site/pinyuchenpage/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/pychen.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/pychen.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://sites.google.com/site/pinyuchenpage/">Pin-Yu Chen</a>
@@ -233,7 +233,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://web.phys.ntu.edu.tw/goan/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/goan.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/goan.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://web.phys.ntu.edu.tw/goan/">Hsi-Sheng Goan</a>
