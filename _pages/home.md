@@ -283,3 +283,8 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
     </ol>
   </div>
 </div>
+
+
+<div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0)">
+    <h6>Website theme inspired from the <a href="https://github.com/vigilworkshop/vigilworkshop.github.io">VIGIL workshop Series</a>. </h6>
+  </div>
