@@ -46,7 +46,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
       <tbody>
         <tr>
           <td>ICASSP Show and Tell</td>
-          <td> <b>May 19, 2021</b>(11:59 AM Pacific time)</td>
+          <td> <b>Jun 9, 2021</b>(8:00-10:00 AM Eastern Daylight Time)</td>
         </tr>
         <tr>
           <td>IJCAI Tutorial</td>
