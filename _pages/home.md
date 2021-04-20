@@ -279,7 +279,11 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   <div class="col-md-12">
     <ol>
 <li>"Quantum machine learning in feature Hilbert spaces," M Schuld et al. , Physical review letters, 2019 </li>
-<li>"Variational quantum circuits for deep reinforcement learning" SYC Chen et al., IEEE 2020 </li><li>"Decentralizing feature extraction with quantum convolutional neural network for automatic speech recognition."" Proc. IEEE Intl. Conf. on Acoustic, Speech, and Signal Processing (ICASSP), Yang, C.H.H. et al., 2021 </li>
+<li>"Variational quantum circuits for deep reinforcement learning" SYC Chen et al., IEEE 2020 </li>
+<li>"Decentralizing feature extraction with quantum convolutional neural network for automatic speech recognition."" Proc. IEEE Intl. Conf. on Acoustic, Speech, and Signal Processing (ICASSP), Yang, C.H.H. et al., 2021 </li>
+<li>Samuel  Yen-Chi  Chen,  Tzu-Chieh  Wei,  Chao  Zhang,  Haiwang  Yu,  andShinjae  Yoo.    Quantum  convolutional  neural  networks  for  high  energyphysics data analysis.arXiv preprint arXiv:2012.12177, 2020.</li>
+      <li>Samuel  Yen-Chi  Chen,  Tzu-Chieh  Wei,  Chao  Zhang,  Haiwang  Yu,  andShinjae Yoo. Hybrid quantum-classical graph convolutional network.arXivpreprint arXiv:2101.06189, 2021</li>
+      
     </ol>
   </div>
 </div>
