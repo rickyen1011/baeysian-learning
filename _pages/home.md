@@ -137,11 +137,11 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://huckiyang.github.io/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/huck.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/drhsieh.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://huckiyang.github.io/">Chao-Han Huck Yang</a>
-      <h6>Georgia Insititue of Technology</h6>
+      <a href="https://www.minhsiu.com/">Min-Hsiu Hsieh</a>
+      <h6>Foxconn Quantum Computing Center</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
