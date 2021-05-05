@@ -131,7 +131,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Speakers</h2>
+    <h2>Guest Speakers</h2>
   </div>
 </div>
 <div class="row">
@@ -141,7 +141,16 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
     </a>
     <div class="people-name">
       <a href="https://www.minhsiu.com/">Min-Hsiu Hsieh</a>
-      <h6>Foxconn Quantum Computing Center</h6>
+      <h6>Director, Foxconn Quantum Computing Center</h6>
+    </div>
+  </div>
+    <div class="col-xs-6 col-lg-3">
+    <a href="https://sites.google.com/site/uwjunqi/home">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/jun.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://liacs.leidenuniv.nl/~dunjkov/">Vedran Dunjko</a>
+      <h6>Leiden University</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
@@ -151,15 +160,6 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
     <div class="people-name">
       <a href="https://www.sycchen.com/">Samuel Yen-Chi Chen</a>
       <h6>Brookhaven National Laboratory</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://sites.google.com/site/uwjunqi/home">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/jun.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://sites.google.com/site/uwjunqi/home">Jun Qi</a>
-      <h6>Georgia Insititue of Technology</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
