@@ -145,8 +145,8 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
     </div>
   </div>
     <div class="col-xs-6 col-lg-3">
-    <a href="https://sites.google.com/site/uwjunqi/home">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/jun.png" | prepend:site.baseurl }}">
+    <a href="https://www.universiteitleiden.nl/en/staffmembers/vedran-dunjko#tab-2">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/dunjko.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://liacs.leidenuniv.nl/~dunjkov/">Vedran Dunjko</a>
