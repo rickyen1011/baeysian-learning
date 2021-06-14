@@ -44,17 +44,21 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>IJCAI Tutorial</td>
-          <td>August 26th , 2021</td>
-        </tr>
-<!--         <tr>
-          <td>Camera Ready Paper Deadline</td>
-          <td>May 15, 2021</td>
+          <td>I. Introduction of Quantum-Enhanced Machine Learning</td>
+          <td>Dr. Samuel Y.-C. Chen, 8:00 to 8:40 AM (EST)</td>
         </tr>
         <tr>
-          <td>Workshop</td>
-          <td>June 10, 2021</td>
-        </tr> -->
+          <td>Invited Talk: Quantum Machine Learning Toward Robustness and Privacy</td>
+          <td>Dr. Min-Hsiu Hsieh, 8:50 AM to 9:30 AM (EST)</td>
+        </tr>
+        <tr>
+          <td>II. Principles of Quantum Mechanics and Tensor Network Foundation</td>
+          <td>Dr. Jun Qi, 9:40 AM to 10:20 AM (EST)</td>
+        </tr>
+        <tr>
+          <td>Invited Talk: Quantum Heuristics and Reinforcment Learning</td>
+          <td>Prof. Vedran Dunjko, 10:30 AM to 11:10 AM (EST)</td>
+        </tr>
       </tbody>
     </table>
   </div>
