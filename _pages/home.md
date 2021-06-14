@@ -45,19 +45,19 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
       <tbody>
         <tr>
           <td>I. Introduction of Quantum-Enhanced Machine Learning</td>
-          <td>Dr. Samuel Y.-C. Chen, 8:00 to 8:40 AM (EST)</td>
+          <td>Samuel Y.-C. Chen, 8:00 to 8:40 AM (EST)</td>
         </tr>
         <tr>
           <td>Invited Talk: Quantum Machine Learning Toward Robustness and Privacy</td>
-          <td>Dr. Min-Hsiu Hsieh, 8:50 AM to 9:30 AM (EST)</td>
+          <td>Min-Hsiu Hsieh, 8:50 AM to 9:30 AM (EST)</td>
         </tr>
         <tr>
           <td>II. Principles of Quantum Mechanics and Tensor Network Foundation</td>
-          <td>Dr. Jun Qi, 9:40 AM to 10:20 AM (EST)</td>
+          <td>Jun Qi, 9:40 AM to 10:20 AM (EST)</td>
         </tr>
         <tr>
           <td>Invited Talk: Quantum Heuristics and Reinforcment Learning</td>
-          <td>Prof. Vedran Dunjko, 10:30 AM to 11:10 AM (EST)</td>
+          <td>Vedran Dunjko, 10:30 AM to 11:10 AM (EST)</td>
         </tr>
         <tr>
           <td>III. Quantum Neural Networks for Speech and Language Processing</td>
@@ -65,11 +65,11 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
         </tr>
         <tr>
           <td>Invited Talk: Near-Term Quantum Advantages for Supervised Machine Leaerning</td>
-          <td>Dr. Kristan Temme, 12:00 AM to 12:40 AM (EST)</td>
+          <td>Kristan Temme, 12:00 AM to 12:40 AM (EST)</td>
         </tr>
         <tr>
           <td>IV. Conclusion and Open Questions</td>
-          <td>Dr. Pin-Yu Chen, 12:40 AM to 12:50 AM (EST)</td>
+          <td>Pin-Yu Chen, 12:40 AM to 12:50 AM (EST)</td>
         </tr>
       </tbody>
     </table>
