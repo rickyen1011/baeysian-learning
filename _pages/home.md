@@ -16,7 +16,6 @@ acknowledgements: ""
     <center><h1>Quantum Neural
 Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></center>
     <center><h2>Montreal, 21st-26th August, IJCAI, 2021</h2></center>
-    <center><h3 style="color:#005cb4"><b>News: We also have a show and tell session in ICASSP 2021.</b></h3></center>
   </div>
 </div>
 
@@ -25,7 +24,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 <div class="row">
     <div class="col-xs-12">
         <p>
-          QuantumNN is a half-day interdisciplinary tutorial that will push the boundaries of quantum neural network. We aim to bridge the fields of quantum circuit learning and deep neural networks through discussions on speech and language processing.
+          QuantumNN is a half-day interdisciplinary tutorial that will push the boundaries of quantum neural network. We aim to bridge the fields of quantum circuit learning , deep neural networks, and providing hand-on examples on speech and language processing.
         </p>
     </div>
 </div>
@@ -44,10 +43,6 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   <div class="col-xs-12">
     <table class="table table-striped">
       <tbody>
-        <tr>
-          <td>ICASSP Show and Tell</td>
-          <td> <b>Jun 9, 2021</b>(8:00-10:00 AM Eastern Daylight Time)</td>
-        </tr>
         <tr>
           <td>IJCAI Tutorial</td>
           <td>August 26th , 2021</td>
@@ -73,20 +68,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   </div>
 </div>
 
-<div class="row">
-    <div class="col-xs-12">
-<!--       <p>
-            Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>.
-        </p> -->
-        <p>
-        Title: Demonstration of Quantum Circuits Learning for Spoken Commands Recognition
-        </p>
-        <p align="center">
-  <img src="https://raw.githubusercontent.com/huckiyang/QuantumSpeech-QCNN/main/images/demo.png" width="150" title="Quantum">
-</p>
-    <ul>
-      <li><b>Quantum Machine Learning for Automatic Spoken-Term Recognition</b>: <a style="color:#2980b9;font-weight:400;" href="https://colab.research.google.com/drive/11Yi53W6-Z-uW84A8Sr6OqOMlBIel1PKM?usp=sharing">Google Colab</a> </li> 
-      <li> <a style="color:#2980b9;font-weight:400;" href="https://www.youtube.com/watch?v=ZigIaFFFUhw&t">Quantum Speech Video </a> </li>
+
 <!--       <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
     </ul>
     <p>
@@ -155,24 +137,14 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.sycchen.com/">
+    <a href="https://www.ibm.com/blogs/research/author/kristantemme/">
       <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.sycchen.com/">Samuel Yen-Chi Chen</a>
-      <h6>Brookhaven National Laboratory</h6>
+      <a href="https://www.ibm.com/blogs/research/author/kristantemme/">Kristan Temme</a>
+      <h6>IBM Research Quantum</h6>
     </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://sites.google.com/site/pinyuchenpage/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/pychen.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://sites.google.com/site/pinyuchenpage/">Pin-Yu Chen</a>
-      <h6>IBM Research AI</h6>
-    </div>
-  </div>
-</div>
+
 
 <hr />
 
