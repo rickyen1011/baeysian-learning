@@ -105,7 +105,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 </p><p>We will provide Quantum Simulation Support and hands-on exercise through an open-source repository for the audience base on 5 qubits IBM Q devices.  </p>
   </div>
 </div>
-
+<hr />
 
 
 
