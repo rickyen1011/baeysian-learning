@@ -60,13 +60,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   </div>
 </div>
 
-<hr />
 
-<div class="row" id="guidelines">
-  <div class="col-xs-12">
-    <h2>Demo</h2>
-  </div>
-</div>
 
 
 <!--       <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
@@ -202,7 +196,13 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
     </div>
 </div>
 
+<hr />
      
+<div class="row" id="guidelines">
+  <div class="col-xs-12">
+    <h2>Demo</h2>
+  </div>
+</div>
       
 
 <hr />
