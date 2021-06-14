@@ -69,7 +69,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
         </tr>
         <tr>
           <td>IV. Conclusion and Open Questions</td>
-          <td>Pin-Yu Chen, 12:40 AM to 12:50 AM (EST)</td>
+          <td>Pin-Yu Chen, 12:40 AM to 12:55 AM (EST)</td>
         </tr>
       </tbody>
     </table>
