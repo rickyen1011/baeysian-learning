@@ -60,7 +60,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
           <td>Prof. Vedran Dunjko, 10:30 AM to 11:10 AM (EST)</td>
         </tr>
         <tr>
-          <td>Quantum Neural Networks for Speech and Language Processing</td>
+          <td>III. Quantum Neural Networks for Speech and Language Processing</td>
           <td>Huck Yang, 11:20 AM to 12:00 AM (EST)</td>
         </tr>
         <tr>
@@ -68,7 +68,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
           <td>Dr. Kristan Temme, 12:00 AM to 12:40 AM (EST)</td>
         </tr>
         <tr>
-          <td>Conclusion and Open Questions</td>
+          <td>IV. Conclusion and Open Questions</td>
           <td>Dr. Pin-Yu Chen, 12:40 AM to 12:50 AM (EST)</td>
         </tr>
       </tbody>
