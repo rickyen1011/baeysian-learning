@@ -24,7 +24,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 <div class="row">
     <div class="col-xs-12">
         <p>
-          QuantumNN is a half-day(https://ijcai-21.org/tutorials/) interdisciplinary tutorial that will push the boundaries of quantum neural network. We aim to bridge the fields of quantum circuit learning , deep neural networks, and providing hand-on examples on speech and language processing.
+          QuantumNN is a half-day (https://ijcai-21.org/tutorials/) interdisciplinary tutorial that will push the boundaries of quantum neural network. We aim to bridge the fields of quantum circuit learning , deep neural networks, and providing hand-on examples on speech and language processing.
         </p>
     </div>
 </div>
