@@ -34,7 +34,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 
 <div class="row" id="dates">
   <div class="col-xs-12">
-    <h2>Schedule<</h2>
+    <h2>Schedule</h2>
   </div>
 </div>
 
@@ -75,7 +75,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 
 <div class="row" id="cfp">
   <div class="col-xs-12">
-    <h2>Schedule</h2>
+    <h2>Target Audience</h2>
   </div>
 </div>
 
