@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Quantum Neural
 Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></center>
-    <center><h2>Montreal, 26th August (Virtual), IJCAI, 2021</h2></center>
+    <center><h2>Montreal, 21st August (Virtual), IJCAI, 2021</h2></center>
   </div>
 </div>
 
