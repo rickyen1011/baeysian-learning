@@ -56,7 +56,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
           <td>Jun Qi, 9:40 AM to 10:20 AM (EST)</td>
         </tr>
         <tr>
-          <td>Invited Talk: Quantum Heuristics and Reinforcment Learning</td>
+          <td>Invited Talk: Quantum Heuristics and Reinforcement Learning</td>
           <td>Vedran Dunjko, 10:30 AM to 11:10 AM (EST)</td>
         </tr>
         <tr>
@@ -64,7 +64,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
           <td>Huck Yang, 11:20 AM to 12:00 AM (EST)</td>
         </tr>
         <tr>
-          <td>Invited Talk: Near-Term Quantum Advantages for Supervised Machine Leaerning</td>
+          <td>Invited Talk: Near-Term Quantum Advantages for Supervised Machine Learning</td>
           <td>Kristan Temme, 12:00 AM to 12:40 AM (EST)</td>
         </tr>
         <tr>
