@@ -138,7 +138,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.ibm.com/blogs/research/author/kristantemme/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/KristanTemme.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.ibm.com/blogs/research/author/kristantemme/">Kristan Temme</a>
