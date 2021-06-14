@@ -5,72 +5,26 @@ title: "People · Embodied Question Answering"
 permalink: /people
 ---
 
-<div class="row" style="margin-top:30px;">
-  <div class="col-xs-12">
-    <h1>People</h1>
-  </div>
-</div>
-<hr>
-<div class="row">
-  <div class="col-md-2 col-sm-3 col-xs-6">
-    <a href="//abhishekdas.com">
-      <img class="people-pic" src="/static/img/people/abhishek.jpg">
-    </a>
-    <div class="people-name">
-      <a href="//abhishekdas.com">Abhishek Das</a>
-      <h6>Georgia Tech</h6>
-    </div>
-  </div>
-  <div class="col-md-2 col-sm-3 col-xs-6">
-    <a href="http://samyak-268.github.io/">
-      <img class="people-pic" src="/static/img/people/samyak.jpg">
-    </a>
-    <div class="people-name">
-      <a href="http://samyak-268.github.io/">Samyak Datta</a>
-      <h6>Georgia Tech</h6>
-    </div>
-  </div>
-  <div class="col-md-2 col-sm-3 col-xs-6">
-    <a href="https://gkioxari.github.io/">
-      <img class="people-pic" src="/static/img/people/georgia.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://gkioxari.github.io/">Georgia Gkioxari</a>
-      <h6>Facebook AI Research</h6>
-    </div>
-  </div>
-  <div class="col-md-2 col-sm-3 col-xs-6">
-    <a href="https://www.cc.gatech.edu/~slee3191/" style="border:0;">
-      <img class="people-pic" src="/static/img/people/stefan.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cc.gatech.edu/~slee3191/">Stefan Lee</a>
-      <h6>Georgia Tech</h6>
-    </div>
-  </div>
-  <div class="col-md-2 col-sm-3 col-xs-6">
-    <a href="https://www.cc.gatech.edu/~parikh/">
-      <img class="people-pic" src="/static/img/people/devi.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cc.gatech.edu/~parikh/">Devi Parikh</a>
-      <h6>Facebook AI Research &amp; Georgia Tech</h6>
-    </div>
-  </div>
-  <div class="col-md-2 col-sm-3 col-xs-6">
-    <a href="https://www.cc.gatech.edu/~dbatra/">
-      <img class="people-pic" src="/static/img/people/dhruv.jpg">
-    </a>
-    <div class="people-name">
-      <a href="https://www.cc.gatech.edu/~dbatra/">Dhruv Batra</a>
-      <h6>Facebook AI Research &amp; Georgia Tech</h6>
-    </div>
-  </div>
-</div>
-<hr>
-
+<br>
 <div class="row">
   <div class="col-xs-12">
-    <span style="font-weight:400;">Email</span> — abhshkdz@gatech.edu
+    <center><h1>Quantum Neural
+Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></center>
+    <center><h2>Montreal, 21st-26th August, IJCAI, 2021</h2></center>
+    <center><h3 style="color:#005cb4"><b>News: We also have a show and tell session in ICASSP 2021.</b></h3></center>
   </div>
 </div>
+<div class="row">
+    <div class="col-xs-12">
+<!--       <p>
+            Please upload submissions at: <a style="color:#2980b9;font-weight:400;" href="https://cmt3.research.microsoft.com/VIGIL2021/">cmt3.research.microsoft.com/VIGIL2021</a>.
+        </p> -->
+        <p>
+        Title: Demonstration of Quantum Circuits Learning for Spoken Commands Recognition
+        </p>
+        <p align="center">
+  <img src="https://raw.githubusercontent.com/huckiyang/QuantumSpeech-QCNN/main/images/demo.png" width="150" title="Quantum">
+</p>
+    <ul>
+      <li><b>Quantum Machine Learning for Automatic Spoken-Term Recognition</b>: <a style="color:#2980b9;font-weight:400;" href="https://colab.research.google.com/drive/11Yi53W6-Z-uW84A8Sr6OqOMlBIel1PKM?usp=sharing">Google Colab</a> </li> 
+      <li> <a style="color:#2980b9;font-weight:400;" href="https://www.youtube.com/watch?v=ZigIaFFFUhw&t">Quantum Speech Video </a> </li>
