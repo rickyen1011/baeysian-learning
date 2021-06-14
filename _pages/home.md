@@ -105,12 +105,12 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
     </p>
     <p>
           <ul>
-  <li>I. Introduction and Motivation of Quantum Machine Learning and Quantum Computer (50 min)</li>
-  <li>Principles of Quantum Mechanics and Tensor Network Foundation (50 min);</li>
-  <li>Introduction to Quantum Computing (50 min);</li>
-  <li>Quantum Machine Learning and Quantum Neural Networks (50 min);</li>
+  <li>I. Introduction and Motivation of Quantum Machine Learning and Quantum Computer </li>
+  <li>Principles of Quantum Mechanics and Tensor Network Foundation;</li>
+  <li>Introduction to Quantum Computing;</li>
+  <li>Quantum Machine Learning and Quantum Neural Networks;</li>
   <li>II. The Fundamentals of Quantum Neural Networks </li>
-  <li>III. The Applications of Quantum Neural Networks for Speech and Language Processing (50 min) </li>
+  <li>III. The Applications of Quantum Neural Networks for Speech and Language Processing </li>
   <li>IV. Conclusion and Open Questions</li>
           </ul>
       </p><p>Anticipated target audience (introductory, intermediate, advanced) as well as expected number of attendees 
