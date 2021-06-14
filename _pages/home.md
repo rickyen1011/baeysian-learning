@@ -34,7 +34,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 
 <div class="row" id="dates">
   <div class="col-xs-12">
-    <h2>Schedule</h2>
+    <h2>Tentative Schedule</h2>
   </div>
 </div>
 
