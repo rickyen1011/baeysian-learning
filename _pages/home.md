@@ -34,7 +34,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 
 <div class="row" id="dates">
   <div class="col-xs-12">
-    <h2>Important Dates</h2>
+    <h2>Schedule<</h2>
   </div>
 </div>
 
@@ -81,6 +81,9 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
 
 <div class="row">
   <div class="col-xs-12">
+    <p>
+      Researchers, graduate students, and practitioners who are interested in Quantum Circuit Learning with Basic Knowledge of linear algebra and neural network training (e.g., gradient and back-propagation).
+      </p>
     <p>
       This tutorial aims to serve as a short lecture for researchers and students to access the emergent field of quantum neural networks from the viewpoint of the artificial intelligence community. The contents of this tutorial will provide sufficient backgrounds for participants to understand the motivation, research progress, opportunities, and ongoing challenges in quantum neural network-based speech and natural language processing. The outline of this tutorial is as follows:
     </p>
