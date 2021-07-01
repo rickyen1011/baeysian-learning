@@ -60,12 +60,12 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
           <td>Vedran Dunjko, 10:30 AM to 11:10 AM (EST)</td>
         </tr>
         <tr>
-          <td>III. Quantum Neural Networks for Speech and Language Processing</td>
-          <td>Huck Yang, 11:20 AM to 12:00 AM (EST)</td>
+          <td>Invited Talk: A Rigorous and Robust Quantum Speed-up in Supervised ML with Quantum Kernels</td>
+          <td>Kristan Temme, 11:20 AM to 12:00 AM (EST)</td>
         </tr>
         <tr>
-          <td>Invited Talk: A Rigorous and Robust Quantum Speed-up in Supervised ML with Quantum Kernels</td>
-          <td>Kristan Temme, 12:00 AM to 12:40 AM (EST)</td>
+          <td>III. Quantum Neural Networks for Speech and Language Processing</td>
+          <td>Huck Yang, 12:00 AM to 12:40 AM (EST)</td>
         </tr>
         <tr>
           <td>IV. Conclusion and Open Questions</td>
