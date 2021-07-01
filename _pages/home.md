@@ -64,7 +64,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
           <td>Huck Yang, 11:20 AM to 12:00 AM (EST)</td>
         </tr>
         <tr>
-          <td>Invited Talk: Near-Term Quantum Advantages for Supervised Machine Learning</td>
+          <td>Invited Talk: A Rigorous and Robust Quantum Speed-up in Supervised ML with Quantum Kernels</td>
           <td>Kristan Temme, 12:00 AM to 12:40 AM (EST)</td>
         </tr>
         <tr>
