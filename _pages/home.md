@@ -56,7 +56,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
           <td>Jun Qi, 9:40 AM to 10:20 AM (EST)</td>
         </tr>
         <tr>
-          <td>Invited Talk: Quantum Heuristics and Reinforcement Learning</td>
+          <td>Invited Talk: Quantum Methods for Reinforcement Learning</td>
           <td>Vedran Dunjko, 10:30 AM to 11:10 AM (EST)</td>
         </tr>
         <tr>
