@@ -45,15 +45,15 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
       <tbody>
         <tr>
           <td>I. Introduction of Quantum-Enhanced Machine Learning</td>
-          <td>Samuel Y.-C. Chen, 8:00 to 8:40 AM (EST)</td>
+          <td>Samuel Y.-C. Chen, <a href="https://www.youtube.com/watch?v=qbUnULuoi9k">Video</a> </td>
         </tr>
         <tr>
           <td>Invited Talk: Quantum Machine Learning Toward Robustness and Privacy</td>
-          <td>Min-Hsiu Hsieh, 8:50 AM to 9:30 AM (EST)</td>
+          <td>Min-Hsiu Hsieh, <a href="https://www.youtube.com/watch?v=0Lr-9nWPcs0">Video</a> </td>
         </tr>
         <tr>
           <td>II. Principles of Quantum Mechanics and Tensor Network Foundation</td>
-          <td>Jun Qi, 9:40 AM to 10:20 AM (EST)</td>
+          <td>Jun Qi, <a href="https://www.youtube.com/watch?v=oHCK8Fz2GCI">Video</a> </td>
         </tr>
         <tr>
           <td>Invited Talk: Quantum Methods for Reinforcement Learning</td>
