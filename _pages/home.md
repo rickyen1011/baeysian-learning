@@ -57,7 +57,7 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
         </tr>
         <tr>
           <td>Invited Talk: Quantum Methods for Reinforcement Learning</td>
-          <td>Vedran Dunjko, 10:30 AM to 11:10 AM (EST)</td>
+          <td>Vedran Dunjko, <a href="https://youtu.be/swmnHtASeI4">Video</a>  </td>
         </tr>
         <tr>
           <td>Invited Talk: A Rigorous and Robust Quantum Speed-up in Supervised ML with Quantum Kernels</td>
