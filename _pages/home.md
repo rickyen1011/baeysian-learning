@@ -61,11 +61,11 @@ Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></c
         </tr>
         <tr>
           <td>Invited Talk: A Rigorous and Robust Quantum Speed-up in Supervised ML with Quantum Kernels</td>
-          <td>Kristan Temme, 11:20 AM to 12:00 PM (EST)</td>
+          <td>Kristan Temme, <a href="https://www.youtube.com/watch?v=jkIXUxvtqXU">Video</a> </td>
         </tr>
         <tr>
           <td>III. Quantum Neural Networks for Speech and Language Processing</td>
-          <td>Huck Yang, 12:00 PM to 12:40 PM (EST)</td>
+          <td>Huck Yang, <a href="https://www.youtube.com/watch?v=ltaiNcW1buo">Video</a> </td>
         </tr>
         <tr>
           <td>IV. Conclusion and Open Questions</td>
