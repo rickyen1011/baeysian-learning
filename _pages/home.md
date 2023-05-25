@@ -1,9 +1,8 @@
 ---
 layout: project
-urltitle:  "Quantum Neural Networks for Speech and Natural Language Processing (QuantumNN)"
-title: "Quantum Neural
-Networks for Speech and Natural Language Processing (QuantumNN)"
-categories: workshop, quantum circuit learning, machine learning, QuantumNN, 2021
+urltitle:  "Bayesian Learning in Speech and Language Processing"
+title: "Celebrating 40 Years of Bayesian Learning in Speech and Language Processing"
+categories: workshop, bayesian learning, machine learning, speech and natural language processing, 2021
 permalink: /
 bibtex: true
 paper: true
