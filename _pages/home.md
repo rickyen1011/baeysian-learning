@@ -163,12 +163,12 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="http://chaozhang.org/">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.png" | prepend:site.baseurl }}">
+    <a href="http://mi.eng.cam.ac.uk/~cz277/">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://chaozhang.org/">Chao Zhang</a>
-      <h6>Georgia Insititue of Technology</h6>
+      <a href="http://mi.eng.cam.ac.uk/~cz277/">Chao Zhang</a>
+      <h6>Google</h6>
     </div>
   </div>
 </div> 
