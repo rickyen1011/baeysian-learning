@@ -127,7 +127,7 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://huckiyang.github.io/">
+    <a href="https://chl.ece.gatech.edu/">
       <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chl.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
@@ -149,7 +149,7 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/jinyu.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.sycchen.com/">Jinyu Li</a>
+      <a href="https://www.microsoft.com/en-us/research/people/jinyli/">Jinyu Li</a>
       <h6>Microsoft Research</h6>
     </div>
   </div>
@@ -167,7 +167,7 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://sites.google.com/site/uwjunqi/home">Chao Zhang</a>
+      <a href="http://chaozhang.org/">Chao Zhang</a>
       <h6>Georgia Insititue of Technology</h6>
     </div>
   </div>
