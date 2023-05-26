@@ -87,7 +87,7 @@ acknowledgements: ""
 
 <hr />
 
-<div class="row" id="cfp">
+<div class="row">
   <div class="col-xs-12">
     <h2>Target Audience</h2>
   </div>
