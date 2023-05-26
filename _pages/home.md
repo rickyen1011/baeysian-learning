@@ -188,7 +188,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://www.sycchen.com/">Jinyu Li</a>
-      <h6>Microsoft</h6>
+      <h6>Microsoft Research</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
