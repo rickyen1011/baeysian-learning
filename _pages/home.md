@@ -10,7 +10,7 @@ acknowledgements: ""
 ---
 
 <br>
-<div class="row", id="dates">
+<div class="row" id="dates">
   <div class="col-xs-12">
     <center><h1>Bayesian Learning in Speech and Language Processing Workshop</h1></center>
     <center><h2>Taipei, ASRU, 2023</h2></center>
