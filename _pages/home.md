@@ -184,7 +184,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.sycchen.com/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/jinyu.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.sycchen.com/">Jinyu Li</a>
