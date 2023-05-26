@@ -30,7 +30,7 @@ acknowledgements: ""
 
 <br />
 
-<div class="row" id="dates">
+<div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Tentative Schedule</h2>
   </div>
