@@ -135,6 +135,7 @@ acknowledgements: ""
       <h6>Georgia Institute of Technology</h6>
     </div>
   </div>
+</div>
 
 <hr />
 
