@@ -128,7 +128,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://huckiyang.github.io/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/chl.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/quantum-ml-main/static/img/people/chl.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.minhsiu.com/">Chin-Hui Lee</a>
@@ -146,7 +146,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://huckiyang.github.io/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/drhsieh.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/drhsieh.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.minhsiu.com/">Min-Hsiu Hsieh</a>
@@ -155,7 +155,7 @@ acknowledgements: ""
   </div>
     <div class="col-xs-6 col-lg-3">
     <a href="https://www.universiteitleiden.nl/en/staffmembers/vedran-dunjko#tab-2">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/dunjko.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/dunjko.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://liacs.leidenuniv.nl/~dunjkov/">Vedran Dunjko</a>
@@ -184,7 +184,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.sycchen.com/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/jinyu.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/jinyu.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.sycchen.com/">Jinyu Li</a>
@@ -193,7 +193,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://huckiyang.github.io/">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/quantum-ml-main/static/img/people/huck.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/huck.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://huckiyang.github.io/">Chao-Han Huck Yang</a>
@@ -202,7 +202,7 @@ acknowledgements: ""
   </div>
   <div class="col-xs-6 col-lg-3">
     <a href="https://sites.google.com/site/uwjunqi/home">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/jun.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://sites.google.com/site/uwjunqi/home">Chao Zhang</a>
