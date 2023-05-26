@@ -185,55 +185,33 @@ acknowledgements: ""
 
 <hr />
      
-<div class="row" id="guidelines">
+<!-- CfP -->
+<div class="row" id="cfp">
   <div class="col-xs-12">
-    <h2>Demo</h2>
+    <h2>Call for Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
     <p>
-        Title: Demonstration of Quantum Circuits Learning for Spoken Commands Recognition
-        </p>
-        <p align="center">
-  <img src="https://raw.githubusercontent.com/huckiyang/QuantumSpeech-QCNN/main/images/demo.png" width="150" title="Quantum">
-</p>
-    <ul>
-      <li><b>Quantum Machine Learning for Automatic Spoken-Term Recognition</b>: <a style="color:#2980b9;font-weight:400;" href="https://colab.research.google.com/drive/11Yi53W6-Z-uW84A8Sr6OqOMlBIel1PKM?usp=sharing">Google Colab</a> </li> 
-      <li> <a style="color:#2980b9;font-weight:400;" href="https://www.youtube.com/watch?v=ZigIaFFFUhw&t">Quantum Speech Video </a> </li>
-
-<hr />
-
-<div class="row" id="scientific_committee">
-  <div class="col-xs-12">
-    <h2>Scientific Committee</h2>
+      The workshop welcomes papers on a range of topics related but not limited to:
+    </p>
+    <p>
+          <ul>
+  <li>Adaptors and adaptation;</li>
+  <li>Efficient parameter tuning;</li>
+  <li>Bayesian inference;</li>
+  <li>Zero shot and few shot learning;</li>
+  <li>Self supervised learning and data-efficient fine-tuning;</li>
+  <li>Instruction tuning;</li>
+  <li>In context learning;</li>
+  <li>Chain of thoughts;</li>
+  <li>Out of distributions;</li>
+  <li>Bayesian approaches for uncertainty estimation;</li>
+          </ul>
+      </p>
   </div>
 </div>
-<div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://web.phys.ntu.edu.tw/goan/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/goan.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://web.phys.ntu.edu.tw/goan/">Hsi-Sheng Goan</a>
-      <h6>National Taiwan University</h6>
-    </div>
-  </div>
-</div>
-
-<!-- <hr>
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Previous Sessions</h2><a name="/prev_session"></a>
-  </div>
-</div>
-<div class="row">
-    <div class="col-xs-12">
-        <p>
-            <ul>
-                <li><a href="https://nips2017vigil.github.io/">ViGIL Workshop at NeurIPS 2017</a></li>
-                <li><a href="https://nips2018vigil.github.io/">ViGIL Workshop at NeurIPS 2018</a></li>
-                <li><a href="https://vigilworkshop.github.io/2019">ViGIL Workshop at NeurIPS 2019</a></li>
-            </ul>
-        </p>
-    </div>
-</div> -->
 
 <hr />
 
