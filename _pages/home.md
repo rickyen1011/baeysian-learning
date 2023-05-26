@@ -167,8 +167,17 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
+    <a href="https://www.sycchen.com/">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.sycchen.com/">Jinyu Li</a>
+      <h6>Microsoft</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-3">
     <a href="https://huckiyang.github.io/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/huck.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/quantum-ml-main/static/img/people/huck.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://huckiyang.github.io/">Chao-Han Huck Yang</a>
@@ -176,30 +185,12 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.sycchen.com/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/ycchen.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.sycchen.com/">Samuel Yen-Chi Chen</a>
-      <h6>Brookhaven National Laboratory</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
     <a href="https://sites.google.com/site/uwjunqi/home">
       <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/jun.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://sites.google.com/site/uwjunqi/home">Jun Qi</a>
+      <a href="https://sites.google.com/site/uwjunqi/home">Chao Zhang</a>
       <h6>Georgia Insititue of Technology</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://sites.google.com/site/pinyuchenpage/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/pychen.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://sites.google.com/site/pinyuchenpage/">Pin-Yu Chen</a>
-      <h6>IBM Research AI</h6>
     </div>
   </div>
 </div> 
