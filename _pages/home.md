@@ -146,7 +146,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.microsoft.com/en-us/research/people/jinyli/">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/jinyu.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/jinyu.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.sycchen.com/">Jinyu Li</a>
