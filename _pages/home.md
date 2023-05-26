@@ -244,18 +244,10 @@ acknowledgements: ""
 <div class="row">
   <div class="col-md-12">
     <ol>
-<li>"Quantum machine learning in feature Hilbert spaces," M Schuld et al. , Physical review letters, 2019 </li>
-      <li>Kosuke Mitarai,  Makoto Negoro,  Masahiro Kitagawa,  and Keisuke Fujii. Quantum circuit learning. Physical Review A, 98(3):032309, 2018.</li>
-      <li>Maria Schuld, Alex Bocharov, Krysta Svore, and Nathan Wiebe.  Circuit-centric quantum classifiers. arXiv preprint arXiv:1804.00633, 2018.</li>
-      <li>Maria Schuld, Ville Bergholm, Christian Gogolin, Josh Izaac, and Nathan Killoran.   Evaluating analytic gradients on quantum hardware. Physical Review A, 99(3):032331, 2019.</li>
-<li>Samuel Yen-Chi Chen, Chao-Han Huck Yang, Jun Qi, Pin-Yu Chen, XiaoliMa, and Hsi-Sheng Goan.  Variational quantum circuits for deep reinforcement learning.IEEE Access, 8:141007–141024, 2020</li>
-<li>"Decentralizing feature extraction with quantum convolutional neural network for automatic speech recognition."" Proc. IEEE Intl. Conf. on Acoustic, Speech, and Signal Processing (ICASSP), Yang, C.H.H. et al., 2021 </li>
-<li>Samuel  Yen-Chi  Chen,  Tzu-Chieh  Wei,  Chao  Zhang,  Haiwang  Yu,  and Shinjae  Yoo. Quantum  convolutional neural networks for high energy physics data analysis. arXiv preprint arXiv:2012.12177, 2020.</li>
-      <li>Samuel  Yen-Chi  Chen,  Tzu-Chieh  Wei,  Chao  Zhang,  Haiwang  Yu,  and Shinjae Yoo. Hybrid quantum-classical graph convolutional network.arXiv preprint arXiv:2101.06189, 2021</li>
-      <li>Samuel Yen-Chi Chen, Shinjae Yoo, and Yao-Lung L Fang. Quantum long short-term memory. arXiv preprint arXiv:2009.01783, 2020.</li>
-      <li>Samuel Yen-Chi Chen and Shinjae Yoo. Federated quantum machine learning. Entropy, 23(4):460, 2021.</li>
-      <li>Samuel Yen-Chi Chen, Chih-Min Huang, Chia-Wei Hsing, and  Ying-Jer Kao.  An end-to-end trainable hybrid classical-quantum classifier. arXiv preprint  arXiv:2102.02416, 2021.</li>
-      
+      <li>P. Brown, Chin-Hui Lee, and J. Spohrer, "Bayesian adaptation in speech recognition," ICASSP, 1983.</li>
+      <li>Qiang Huo, and Chin-Hui Lee "On-line adaptive learning of the continuous density hidden Markov model based on approximate recursive Bayes estimate," IEEE Transactions on Speech and Audio Processing 5.2 (1997): 161-172.</li>
+      <li>Koichi Shinoda, and Chin-Hui Lee "A structural Bayes approach to speaker adaptation," IEEE Transactions on Speech and Audio Processing 9.3 (2001): 276-287.</li>
+      <li>Shinji Watanabe, Yasuhiro Minami, Atsushi Nakamura, and Naonori Ueda, "Application of Variational Bayesian Approach to Speech Recognition," NIPS, 2002.</li>
       
     </ol>
   </div>
