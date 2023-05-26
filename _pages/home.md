@@ -22,7 +22,7 @@ acknowledgements: ""
 <div class="row">
     <div class="col-xs-12">
         <p>
-          QuantumNN is a half-day (https://ijcai-21.org/tutorials/) interdisciplinary tutorial that will push the boundaries of quantum machine learning. We aim to bridge the fields of quantum circuit learning , deep neural networks, and providing hand-on examples on speech and language processing. | <a href="https://zoom.virtualchair.net/ijcai18/prX3w9">Virtual Room Link</a> | <a href="https://ijcai-21.org/registration-information/">IJCAI Registeration</a> |
+          Introduction
         </p>
     </div>
 </div>
@@ -131,50 +131,12 @@ acknowledgements: ""
       <img class="people-pic" src="{{ "https://rickyen1011.github.io/quantum-ml-main/static/img/people/chl.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.minhsiu.com/">Chin-Hui Lee</a>
+      <a href="https://chl.ece.gatech.edu/">Chin-Hui Lee</a>
       <h6>Georgia Institute of Technology</h6>
     </div>
   </div>
 
 <hr />
-
-<div class="row" id="speakers">
-  <div class="col-xs-12">
-    <h2>Guest Speakers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://huckiyang.github.io/">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/drhsieh.png" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.minhsiu.com/">Min-Hsiu Hsieh</a>
-      <h6>Foxconn Quantum Computing Center</h6>
-    </div>
-  </div>
-    <div class="col-xs-6 col-lg-3">
-    <a href="https://www.universiteitleiden.nl/en/staffmembers/vedran-dunjko#tab-2">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/dunjko.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://liacs.leidenuniv.nl/~dunjkov/">Vedran Dunjko</a>
-      <h6>Leiden University</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://www.ibm.com/blogs/research/author/kristantemme/">
-      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/KristanTemme.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.ibm.com/blogs/research/author/kristantemme/">Kristan Temme</a>
-      <h6>IBM Research Quantum</h6>
-    </div>
-    </div>
-  </div>
-
-<hr />
-
 
 <div class="row" id="organizers">
   <div class="col-xs-12">
@@ -183,7 +145,7 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.sycchen.com/">
+    <a href="https://www.microsoft.com/en-us/research/people/jinyli/">
       <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/jinyu.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
@@ -201,7 +163,7 @@ acknowledgements: ""
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
-    <a href="https://sites.google.com/site/uwjunqi/home">
+    <a href="http://chaozhang.org/">
       <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
