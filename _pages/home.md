@@ -128,7 +128,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-6 col-lg-3">
     <a href="https://huckiyang.github.io/">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/quantum-ml-main/static/img/people/chl.png" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chl.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://chl.ece.gatech.edu/">Chin-Hui Lee</a>
