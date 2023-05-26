@@ -42,32 +42,32 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>I. Introduction of Quantum-Enhanced Machine Learning</td>
-          <td>Samuel Y.-C. Chen, <a href="https://www.youtube.com/watch?v=qbUnULuoi9k">Video</a> </td>
+          <td>Celebrating 40 Years of Bayesian Learning in Speech and Language Processing</td>
+          <td>Chin-Hui Lee</td>
         </tr>
         <tr>
-          <td>Invited Talk: Quantum Machine Learning Toward Robustness and Privacy</td>
-          <td>Min-Hsiu Hsieh, <a href="https://www.youtube.com/watch?v=0Lr-9nWPcs0">Video</a> </td>
+          <td>Variational Bayesian</td>
+          <td>Shinji Watanabe</td>
         </tr>
         <tr>
-          <td>II. Principles of Quantum Mechanics and Tensor Network Foundation</td>
-          <td>Jun Qi, <a href="https://www.youtube.com/watch?v=oHCK8Fz2GCI">Video</a> </td>
+          <td>NLP Bayesian</td>
+          <td>Koichi Shinoda</td>
         </tr>
         <tr>
-          <td>Invited Talk: Quantum Methods for Reinforcement Learning</td>
-          <td>Vedran Dunjko, <a href="https://youtu.be/swmnHtASeI4">Video</a>  </td>
+          <td>Plenary Discussion I</td>
+          <td></td>
         </tr>
         <tr>
-          <td>Invited Talk: A Rigorous and Robust Quantum Speed-up in Supervised ML with Quantum Kernels</td>
-          <td>Kristan Temme, <a href="https://www.youtube.com/watch?v=jkIXUxvtqXU">Video</a> </td>
+          <td>Poster Session</td>
+          <td></td>
         </tr>
         <tr>
-          <td>III. Quantum Neural Networks for Speech and Language Processing</td>
-          <td>Huck Yang, <a href="https://www.youtube.com/watch?v=ltaiNcW1buo">Video</a> </td>
+          <td>In-context Bayesian Learning with LLM</td>
+          <td>Gengyu Ma</td>
         </tr>
         <tr>
-          <td>IV. Conclusion and Open Questions</td>
-          <td>Pin-Yu Chen, 12:40 PM to 12:55 PM (EST)</td>
+          <td>IPlenary Discussion II</td>
+          <td></td>
         </tr>
       </tbody>
     </table>
@@ -120,6 +120,21 @@ acknowledgements: ""
 
 
 
+<div class="row" id="organizers">
+  <div class="col-xs-12">
+    <h2>Honor Committee Chair</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://huckiyang.github.io/">
+      <img class="people-pic" src="{{ "https://huckiyang.github.io/quantum-ml-main/static/img/people/chl.png" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.minhsiu.com/">Chin-Hui Lee</a>
+      <h6>Georgia Institute of Technology</h6>
+    </div>
+  </div>
 
 <hr />
 
@@ -159,7 +174,8 @@ acknowledgements: ""
   </div>
 
 <hr />
-      
+
+
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
