@@ -12,9 +12,8 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-    <center><h1>Quantum Neural
-Networks for Speech and Natural Language Processing (QuantumNN) Tutorial</h1></center>
-    <center><h2>Montreal, 21st (Sat.) August (Virtual Room Auditorium Red), IJCAI, 2021</h2></center>
+    <center><h1>Bayesian Learning in Speech and Language Processing Workshop</h1></center>
+    <center><h2>Taipei, ASRU, 2023</h2></center>
   </div>
 </div>
 
