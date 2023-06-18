@@ -163,11 +163,11 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.microsoft.com/en-us/research/people/jinyli/">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/jinyu.jpeg" | prepend:site.baseurl }}">
+    <a href="https://www.microsoft.com/en-us/research/people/qianghuo/publications/">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/qiang.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.microsoft.com/en-us/research/people/jinyli/">Qiang Huo</a>
+      <a href="https://www.microsoft.com/en-us/research/people/qianghuo/publications/">Qiang Huo</a>
       <h6>Microsoft Research</h6>
     </div>
   </div>
