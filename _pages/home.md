@@ -103,6 +103,7 @@ acknowledgements: ""
 
 <hr />
 
+<!--
 <div class="row">
   <div class="col-xs-12">
     <h2>Target Audience</h2>
@@ -133,7 +134,7 @@ acknowledgements: ""
   </div>
 </div>
 <hr />
-
+-->
 
 
 <div class="row" id="organizers">
@@ -152,6 +153,65 @@ acknowledgements: ""
     </div>
   </div>
 </div>
+
+<hr />
+
+<div class="row" id="organizers">
+  <div class="col-xs-12">
+    <h2>Invited Speakers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.microsoft.com/en-us/research/people/jinyli/">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/jinyu.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.microsoft.com/en-us/research/people/jinyli/">Qiang Huo</a>
+      <h6>Microsoft Research</h6>
+    </div>
+  </div>
+  
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://huckiyang.github.io/">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/huck.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://huckiyang.github.io/">Torbjørn Svendsen</a>
+      <h6>Georgia Insititue of Technology</h6>
+    </div>
+  </div>
+  
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://mi.eng.cam.ac.uk/~cz277/](https://sites.google.com/view/shinjiwatanabe">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://mi.eng.cam.ac.uk/~cz277/](https://sites.google.com/view/shinjiwatanabe">Shinji Watanabe</a>
+      <h6>Carnegie Mellon University,</h6>
+    </div>
+  </div>
+  
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://www.ks.c.titech.ac.jp/members/koichi-shinoda">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/wang.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.ks.c.titech.ac.jp/members/koichi-shinoda">Koichi Shinoda</a>
+      <h6>Tokyo Institute of Technology</h6>
+    </div>
+  </div>
+  
+  <div class="col-xs-6 col-lg-3">
+    <a href="[http://mi.eng.cam.ac.uk/~cz277/](https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW)">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/tsao.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="[http://mi.eng.cam.ac.uk/~cz277/](https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW)">Jen-Tzung Chien</a>
+      <h6>Academia Sinica</h6>
+    </div>
+  </div>
+</div> 
 
 <hr />
 
@@ -192,21 +252,21 @@ acknowledgements: ""
   </div>
   
   <div class="col-xs-6 col-lg-3">
-    <a href="[http://mi.eng.cam.ac.uk/~cz277](https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html)/">
+    <a href="https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html">
       <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/wang.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="[http://mi.eng.cam.ac.uk/~cz277/](https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html)">Hsin-Min Wang</a>
+      <a href="https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html">Hsin-Min Wang</a>
       <h6>Academia Sinica</h6>
     </div>
   </div>
   
   <div class="col-xs-6 col-lg-3">
-    <a href="[http://mi.eng.cam.ac.uk/~cz277/](https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW)">
+    <a href="https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW">
       <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/tsao.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="[http://mi.eng.cam.ac.uk/~cz277/](https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW)">Yu Tsao</a>
+      <a href="https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW">Yu Tsao</a>
       <h6>Academia Sinica</h6>
     </div>
   </div>
