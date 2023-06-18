@@ -32,7 +32,7 @@ acknowledgements: ""
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Tentative Schedule</h2>
+    <h2>Tentative Schedule (A total of 5 hours after ASRU2023 at 1-6pm on December 20)</h2>
   </div>
 </div>
 
@@ -42,46 +42,57 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
+          <td> 13:00</td>
           <td>Historical Perspective & Beyond</td>
           <td>C.-H. Lee</td>
         </tr>
         <tr>
+          <td> 13:30</td>
           <td>Online and Correlated HMMs</td>
           <td>Q. Huo</td>
         </tr>
         <tr>
+          <td> 13:45</td>
           <td>Joint MAP of LR and HMMs</td>
           <td>T. K. Svendsen</td>
         </tr>
         <tr>
+          <td> 14:00</td>
           <td>PVariational Bayesian Learning</td>
           <td>S. Watanabe</td>
         </tr>
         <tr>
+          <td> 14:15</td>
           <td>Structural MAP for HMMs</td>
           <td>K. Shinoda</td>
         </tr>
         <tr>
+          <td> 14:30</td>
           <td>MAP for N-grams and Beyond</td>
           <td>J.-T. Chien</td>
         </tr>
         <tr>
+          <td> 14:45</td>
           <td>MAP for DNN Parameters</td>
           <td>S.M. Siniscalchi</td>
         </tr>
         <tr>
+          <td> 15:00</td>
           <td>Panel Discussion</td>
           <td></td>
         </tr>
         <tr>
+          <td> 15:30</td>
           <td>Break</td>
           <td></td>
         </tr>
         <tr>
+          <td> 16:00</td>
           <td>Poster Contributions</td>
           <td></td>
         </tr>
         <tr>
+          <td> 18:00</td>
           <td>Closing</td>
           <td></td>
         </tr>
