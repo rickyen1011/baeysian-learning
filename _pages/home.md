@@ -180,22 +180,22 @@ acknowledgements: ""
   </div>
   
   <div class="col-xs-6 col-lg-3">
-    <a href="http://mi.eng.cam.ac.uk/~cz277/">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.jpeg" | prepend:site.baseurl }}">
+    <a href="[http://mi.eng.cam.ac.uk/~cz277](https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html)/">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/wang.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://mi.eng.cam.ac.uk/~cz277/">Hsin-Min Wang</a>
-      <h6>Google</h6>
+      <a href="[http://mi.eng.cam.ac.uk/~cz277/](https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html)">Hsin-Min Wang</a>
+      <h6>Academia Sinica</h6>
     </div>
   </div>
   
   <div class="col-xs-6 col-lg-3">
-    <a href="http://mi.eng.cam.ac.uk/~cz277/">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.jpeg" | prepend:site.baseurl }}">
+    <a href="[http://mi.eng.cam.ac.uk/~cz277/](https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW)">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/tsao.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="http://mi.eng.cam.ac.uk/~cz277/">Yu Tsao</a>
-      <h6>Google</h6>
+      <a href="[http://mi.eng.cam.ac.uk/~cz277/](https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW)">Yu Tsao</a>
+      <h6>Academia Sinica</h6>
     </div>
   </div>
 </div> 
