@@ -12,7 +12,7 @@ acknowledgements: ""
 <br>
 <div class="row" id="dates">
   <div class="col-xs-12">
-    <center><h1>Bayesian Learning in Speech and Language Processing Workshop</h1></center>
+    <center><h1>Symposium for Celebrating 40 Years of Bayesian Learning in Speech and Language Processing and Beyond</h1></center>
     <center><h2>Taipei, ASRU, 2023</h2></center>
   </div>
 </div>
@@ -42,31 +42,35 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Celebrating 40 Years of Bayesian Learning in Speech and Language Processing</td>
-          <td>Chin-Hui Lee</td>
+          <td>Historical Perspective & Beyond</td>
+          <td>C.-H. Lee</td>
         </tr>
         <tr>
-          <td>Variational Bayesian</td>
-          <td>Shinji Watanabe</td>
+          <td>Online and Correlated HMMs</td>
+          <td>Q. Huo</td>
         </tr>
         <tr>
-          <td>NLP Bayesian</td>
-          <td>Koichi Shinoda</td>
+          <td>Joint MAP of LR and HMMs</td>
+          <td>T. K. Svendsen</td>
         </tr>
         <tr>
-          <td>Plenary Discussion I</td>
-          <td></td>
+          <td>PVariational Bayesian Learning</td>
+          <td>S. Watanabe</td>
         </tr>
         <tr>
-          <td>Poster Session</td>
-          <td></td>
+          <td>Structural MAP for HMMs</td>
+          <td>K. Shinoda</td>
         </tr>
         <tr>
-          <td>In-context Bayesian Learning with LLM</td>
-          <td>Gengyu Ma</td>
+          <td>MAP for N-grams and Beyond</td>
+          <td>J.-T. Chien</td>
         </tr>
         <tr>
-          <td>IPlenary Discussion II</td>
+          <td>MAP for DNN Parameters</td>
+          <td>S.M. Siniscalchi</td>
+        </tr>
+        <tr>
+          <td>Panel Discussion</td>
           <td></td>
         </tr>
       </tbody>
@@ -122,7 +126,7 @@ acknowledgements: ""
 
 <div class="row" id="organizers">
   <div class="col-xs-12">
-    <h2>Honor Committee Chair</h2>
+    <h2>Honorary Committee Chair</h2>
   </div>
 </div>
 <div class="row">
@@ -154,6 +158,7 @@ acknowledgements: ""
       <h6>Microsoft Research</h6>
     </div>
   </div>
+  
   <div class="col-xs-6 col-lg-3">
     <a href="https://huckiyang.github.io/">
       <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/huck.jpeg" | prepend:site.baseurl }}">
@@ -163,12 +168,33 @@ acknowledgements: ""
       <h6>Georgia Insititue of Technology</h6>
     </div>
   </div>
+  
   <div class="col-xs-6 col-lg-3">
     <a href="http://mi.eng.cam.ac.uk/~cz277/">
       <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://mi.eng.cam.ac.uk/~cz277/">Chao Zhang</a>
+      <h6>Google</h6>
+    </div>
+  </div>
+  
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://mi.eng.cam.ac.uk/~cz277/">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://mi.eng.cam.ac.uk/~cz277/">Hsin-Min Wang</a>
+      <h6>Google</h6>
+    </div>
+  </div>
+  
+  <div class="col-xs-6 col-lg-3">
+    <a href="http://mi.eng.cam.ac.uk/~cz277/">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="http://mi.eng.cam.ac.uk/~cz277/">Yu Tsao</a>
       <h6>Google</h6>
     </div>
   </div>
