@@ -164,7 +164,7 @@ acknowledgements: ""
 -->
 
 
-<div class="row" id="organizers">
+<div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Honorary Committee Chair</h2>
   </div>
@@ -183,7 +183,7 @@ acknowledgements: ""
 
 <hr />
 
-<div class="row" id="organizers">
+<div class="row" id="speakers">
   <div class="col-xs-12">
     <h2>Invited Speakers</h2>
   </div>
