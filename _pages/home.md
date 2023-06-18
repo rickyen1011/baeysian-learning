@@ -211,6 +211,17 @@ acknowledgements: ""
       <h6>National Chiao Tung University</h6>
     </div>
   </div>
+
+  <div class="col-xs-6 col-lg-3">
+    <a href="https://scholar.google.it/citations?user=iHhGIcEAAAAJ&hl=it">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/marco.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://scholar.google.it/citations?user=iHhGIcEAAAAJ&hl=it">Sabato Marco Siniscalchi</a>
+      <h6>Kore University of Enna</h6>
+    </div>
+  </div>
+  
 </div> 
 
 <hr />
