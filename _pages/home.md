@@ -95,7 +95,7 @@ acknowledgements: ""
         <tr>
           <td> 15:00</td>
           <td>Panel Discussion</td>
-          <td></td>
+          <td>All 7 speakers</td>
         </tr>
         <tr>
           <td> 15:30</td>
@@ -353,7 +353,7 @@ acknowledgements: ""
 </div>
 -->
 
-<div class="row" id="cfp">
+<div class="row" id="publications">
   <div class="col-xs-12">
     <h2>Publications</h2>
   </div>
@@ -362,6 +362,21 @@ acknowledgements: ""
   <div class="col-xs-12">
     <p>
       All contributions to this Bayesian Celebration Workshop can be summarized in an abstract (limited to 200 words) to be published in the ASRU2023 Workshop Proceedings, 12-15 poster contributions with relevant topics to Bayesian Learning will be selected from submissions and reviewed by the Organizers (Call for Contributions will be sent to all potential participants and published in the ASRU website soon). Presentation materials, including 1-page summary or posters with references will be published in a symposium page hyperlinked to ASRU website.
+    </p>
+  </div>
+</div>
+
+<hr />
+
+<div class="row" id="registration">
+  <div class="col-xs-12">
+    <h2>Registration</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      Participants need to register separately from the main ASRU Workshop. A fee of USD$120 (covering Workshop, Proceedings, Break) is required for registering the Bayesian Symposium. ASRU participants are welcome to join this Celebration Workshop with an extra $100 (Satellite Workshop registration will be done separately from ASRU Workshop registration). Invited speakers are waived from paying registration fees
     </p>
   </div>
 </div>
