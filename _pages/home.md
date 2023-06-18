@@ -200,6 +200,7 @@ acknowledgements: ""
   </div>
 </div> 
 
+<!--
 <hr />
 <div class="row" id="intro">
     <div class="col-xs-12">
@@ -208,6 +209,7 @@ acknowledgements: ""
         <p>Through IJCAI’s flagship and influence in AI research, we believe this tutorial can create the synergies and reinforce the momentum in advanced research and novel applications based on quantum computing and machine learning. This tutorial will provide an overview of the fundamentals of quantum mechanics, quantum machine learning and quantum neural networks. Then, we introduce the related applications in speech recognition and natural language understanding. In more detail, in the introduction part, we briefly introduce basic concepts of quantum computing, quantum mechanics and necessary multi-linear algebra associated with quantum technology. In the second section, we will discuss QNNs, especially based on variational quantum circuits (VQC) for QNNs. Finally, we provide several examples of employing VQC-QNN for speech recognition and natural language understanding.</p>
     </div>
 </div>
+-->
 
 <hr />
      
