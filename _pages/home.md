@@ -231,7 +231,7 @@ acknowledgements: ""
   
   <div class="col-xs-6 col-lg-3">
     <a href="https://scholar.nycu.edu.tw/en/persons/jen-tzung-chien">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chien.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chien.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://scholar.nycu.edu.tw/en/persons/jen-tzung-chien">Jen-Tzung Chien</a>
