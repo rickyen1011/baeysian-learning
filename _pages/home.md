@@ -1,8 +1,8 @@
 ---
 layout: project
 urltitle:  "Bayesian Learning in Speech and Language Processing"
-title: "Celebrating 40 Years of Bayesian Learning in Speech and Language Processing"
-categories: workshop, bayesian learning, machine learning, speech and natural language processing, 2021
+title: "Symposium for Celebrating 40 Years of Bayesian Learning in Speech and Language Processing and Beyond"
+categories: workshop, bayesian learning, machine learning, speech and natural language processing, 2023
 permalink: /
 bibtex: true
 paper: true
