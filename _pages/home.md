@@ -212,6 +212,7 @@ acknowledgements: ""
 <hr />
      
 <!-- CfP -->
+<!--
 <div class="row" id="cfp">
   <div class="col-xs-12">
     <h2>Call for Papers</h2>
@@ -238,6 +239,7 @@ acknowledgements: ""
       </p>
   </div>
 </div>
+-->
 
 <hr />
 
