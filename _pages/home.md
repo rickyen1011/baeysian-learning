@@ -13,7 +13,7 @@ acknowledgements: ""
 <div class="row" id="dates">
   <div class="col-xs-12">
     <center><h1>Symposium for Celebrating 40 Years of Bayesian Learning in Speech and Language Processing and Beyond</h1></center>
-    <center><h2>Taipei, ASRU, 2023</h2></center>
+    <center><h2>Taipei, ASRU, December 20th, 2023</h2></center>
   </div>
 </div>
 
