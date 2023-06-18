@@ -173,12 +173,12 @@ acknowledgements: ""
   </div>
   
   <div class="col-xs-6 col-lg-3">
-    <a href="https://huckiyang.github.io/">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/huck.jpeg" | prepend:site.baseurl }}">
+    <a href="https://www.ntnu.edu/employees/torbjorn.svendsen">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/svendsen.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://huckiyang.github.io/">Torbjørn Svendsen</a>
-      <h6>Georgia Insititue of Technology</h6>
+      <a href="https://www.ntnu.edu/employees/torbjorn.svendsen">Torbjørn Svendsen</a>
+      <h6>Norwegian University of Science and Technology</h6>
     </div>
   </div>
   
@@ -188,7 +188,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="http://mi.eng.cam.ac.uk/~cz277/](https://sites.google.com/view/shinjiwatanabe">Shinji Watanabe</a>
-      <h6>Carnegie Mellon University,</h6>
+      <h6>Carnegie Mellon University</h6>
     </div>
   </div>
   
