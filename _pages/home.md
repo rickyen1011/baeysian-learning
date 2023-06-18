@@ -194,7 +194,7 @@ acknowledgements: ""
   
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.ks.c.titech.ac.jp/members/koichi-shinoda">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/shinoda.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/shinoda.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.ks.c.titech.ac.jp/members/koichi-shinoda">Koichi Shinoda</a>
