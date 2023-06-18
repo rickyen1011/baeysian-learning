@@ -184,7 +184,7 @@ acknowledgements: ""
   
   <div class="col-xs-6 col-lg-3">
     <a href="http://mi.eng.cam.ac.uk/~cz277/](https://sites.google.com/view/shinjiwatanabe">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chao.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/shinji.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://mi.eng.cam.ac.uk/~cz277/](https://sites.google.com/view/shinjiwatanabe">Shinji Watanabe</a>
@@ -194,7 +194,7 @@ acknowledgements: ""
   
   <div class="col-xs-6 col-lg-3">
     <a href="https://www.ks.c.titech.ac.jp/members/koichi-shinoda">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/wang.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/shinoda.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.ks.c.titech.ac.jp/members/koichi-shinoda">Koichi Shinoda</a>
@@ -203,12 +203,12 @@ acknowledgements: ""
   </div>
   
   <div class="col-xs-6 col-lg-3">
-    <a href="[http://mi.eng.cam.ac.uk/~cz277/](https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW)">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/tsao.jpeg" | prepend:site.baseurl }}">
+    <a href="https://scholar.nycu.edu.tw/en/persons/jen-tzung-chien">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/chien.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="[http://mi.eng.cam.ac.uk/~cz277/](https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW)">Jen-Tzung Chien</a>
-      <h6>Academia Sinica</h6>
+      <a href="https://scholar.nycu.edu.tw/en/persons/jen-tzung-chien">Jen-Tzung Chien</a>
+      <h6>National Chiao Tung University</h6>
     </div>
   </div>
 </div> 
