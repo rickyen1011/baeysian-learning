@@ -263,7 +263,7 @@ acknowledgements: ""
   
   <div class="col-xs-6 col-lg-3">
     <a href="https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/tsao.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/tsao.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://scholar.google.com/citations?user=ZO5e5I4AAAAJ&hl=zh-TW">Yu Tsao</a>
