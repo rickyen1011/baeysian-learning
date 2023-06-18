@@ -241,6 +241,19 @@ acknowledgements: ""
 </div>
 -->
 
+<div class="row" id="cfp">
+  <div class="col-xs-12">
+    <h2>Publications</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+      All contributions to this Bayesian Celebration Workshop can be summarized in an abstract (limited to 200 words) to be published in the ASRU2023 Workshop Proceedings, 12-15 poster contributions with relevant topics to Bayesian Learning will be selected from submissions and reviewed by the Organizers (Call for Contributions will be sent to all potential participants and published in the ASRU website soon). Presentation materials, including 1-page summary or posters with references will be published in a symposium page hyperlinked to ASRU website.
+    </p>
+  </div>
+</div>
+
 <hr />
 
 <div class="row">
