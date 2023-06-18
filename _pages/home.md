@@ -36,6 +36,22 @@ acknowledgements: ""
   </div>
 </div>
 
+<div class="row">
+  <div class="col-xs-12">
+    <p>
+          <ul>
+  <li>Plenary Speaker: Chin-Hui Lee (30 minutes)</li>
+  <li>Six Invited Speakers (Key contributions to Bayesian Learning in speech and language processing in the last 40 years): Qiang Huo, Torbjørn Svendsen (or Olivier Siohan), Shinji Watanabe, Koichi Shinoda, Jen-Tzung Chien, Marco Siniscalchi (15 minutes each with a total of 90 minutes)</li>
+  <li>Panel Discussion: all seven invited speakers as panelists (30 minutes)</li>
+  <li>Break and Social Discussions (30 minutes)</li>
+  <li>Poster Session: 12-15 posters (120 minutes)</li>
+  <li>Workshop Dinner: hosted by the Organizer right after rhe Symposium</li>
+          </ul>
+      </p>
+  </div>
+</div>
+
+
 <br>
 <div class="row">
   <div class="col-xs-12">
@@ -174,11 +190,11 @@ acknowledgements: ""
 </div>
 <div class="row">
   <div class="col-xs-6 col-lg-3">
-    <a href="https://www.microsoft.com/en-us/research/people/qianghuo/publications/">
+    <a href="https://www.microsoft.com/en-us/research/people/qianghuo">
       <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/qiang.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.microsoft.com/en-us/research/people/qianghuo/publications/">Qiang Huo</a>
+      <a href="https://www.microsoft.com/en-us/research/people/qianghuo">Qiang Huo</a>
       <h6>Microsoft Research</h6>
     </div>
   </div>
