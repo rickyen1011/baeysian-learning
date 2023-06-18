@@ -211,7 +211,7 @@ acknowledgements: ""
   
   <div class="col-xs-6 col-lg-3">
     <a href="http://mi.eng.cam.ac.uk/~cz277/](https://sites.google.com/view/shinjiwatanabe">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/shinji.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/shinji.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="http://mi.eng.cam.ac.uk/~cz277/](https://sites.google.com/view/shinjiwatanabe">Shinji Watanabe</a>
