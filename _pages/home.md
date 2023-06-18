@@ -73,6 +73,18 @@ acknowledgements: ""
           <td>Panel Discussion</td>
           <td></td>
         </tr>
+        <tr>
+          <td>Break</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Poster Contributions</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Closing</td>
+          <td></td>
+        </tr>
       </tbody>
     </table>
   </div>
