@@ -253,7 +253,7 @@ acknowledgements: ""
   
   <div class="col-xs-6 col-lg-3">
     <a href="https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html">
-      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/wang.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "https://rickyen1011.github.io/bayesian-learning/static/img/people/wang.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://homepage.iis.sinica.edu.tw/pages/whm/index_en.html">Hsin-Min Wang</a>
