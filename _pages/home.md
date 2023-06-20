@@ -346,7 +346,7 @@ acknowledgements: ""
 	<li>Q. Huo and C.-H. Lee, "A Bayesian Predictive Classification Approach to Robust Speech Recognition," <i>IEEE Trans. on Speech and Audio Proc.</i>, Vol. 8, No. 2, pp. 200-204, March 2000.</li>
 	<li>C.-H. Lee and Q. Huo, "On Adaptive Decision Rules and Decision Parameter Adaptation for Automatic Speech Recognition," <i>Proceedings of the IEEE</i>, Vol. 88, No. 8, pp. 1241-1269, August 2000.</li>
 	<li>K. Shinoda and C.-H. Lee, "A Structural Bayes Approach to Speaker Adaptation," <i>IEEE Trans. on Speech and Audio Proc.</i>, Vol. 9, No. 3, pp. 276-287, March 2001.</li>
-	<li>>O. Siohan, C. Chesta and C.-H. Lee, "Joint Maximum a Posteriori Adaptation of Transformation and HMM Parameters," <i>IEEE Trans. on Speech and Audio Proc.</i>, Vol. 9, No. 4, pp. 417-428, May 2001.</li>
+	<li>O. Siohan, C. Chesta and C.-H. Lee, "Joint Maximum a Posteriori Adaptation of Transformation and HMM Parameters," <i>IEEE Trans. on Speech and Audio Proc.</i>, Vol. 9, No. 4, pp. 417-428, May 2001.</li>
 	<li>O. Siohan, T. A. Myrvoll and C.-H. Lee, "Structural Maximum A Posteriori Linear Regression for HMM Adaptation," <i>Computer Speech and Language</i>, Vol. 16, No. 1, pp. 5-24, Jan. 2002.</li>
 	<li>S. Watanabe, Y. Minami, A. Nakamura, and N. Ueda, "Application of Variational Bayesian Approach to Speech Recognition," <i>NIPS</i>, 2002.</li>
 	<li>Z. Huang, S. M. Siniscalchi and C.-H. Lee, "A Unified Approach to Transfer Learning of Deep Neural Networks with Applications to Speaker Adaptation in Automatic Speech Recognition," <i>Neurocomputing</i>, September 2016.</li>
