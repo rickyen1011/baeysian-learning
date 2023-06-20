@@ -74,12 +74,12 @@ acknowledgements: ""
         </tr>
         <tr>
           <td> 14:00</td>
-          <td>PVariational Bayesian Learning</td>
+          <td>Variational Bayesian Learning</td>
           <td>S. Watanabe</td>
         </tr>
         <tr>
           <td> 14:15</td>
-          <td>Structural MAP for HMMs</td>
+          <td>Structural MAP for LR & HMMs</td>
           <td>K. Shinoda</td>
         </tr>
         <tr>
