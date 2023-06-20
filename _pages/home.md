@@ -385,19 +385,31 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>References</h2>
+    <h2>Selected Key References</h2>
   </div>
 </div>
+
 <div class="row">
-  <div class="col-md-12">
-    <ol>
-      <li>P. Brown, Chin-Hui Lee, and J. Spohrer, "Bayesian adaptation in speech recognition," ICASSP, 1983.</li>
-      <li>Qiang Huo, and Chin-Hui Lee "On-line adaptive learning of the continuous density hidden Markov model based on approximate recursive Bayes estimate," IEEE Transactions on Speech and Audio Processing 5.2 (1997): 161-172.</li>
-      <li>Koichi Shinoda, and Chin-Hui Lee "A structural Bayes approach to speaker adaptation," IEEE Transactions on Speech and Audio Processing 9.3 (2001): 276-287.</li>
-      <li>Shinji Watanabe, Yasuhiro Minami, Atsushi Nakamura, and Naonori Ueda, "Application of Variational Bayesian Approach to Speech Recognition," NIPS, 2002.</li>
-      
-    </ol>
-  </div>
+<div class="col-md-12">
+<ol pbzloc="21">
+	<li pbzloc="150"><span pbzloc="148">P. Brown, C.-H. Lee, and J. Spohrer, &quot;Bayesian Adaptation in Speech rRcognition,&quot; <em>Proc. </em><em pbzloc="147">ICASSP</em>, 1983.</span></li>
+	<li pbzloc="153"><span pbzloc="151" style="font-family: &quot;Times New Roman&quot;, serif; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">C.-H. Lee, C.-H. Lin and B.-H. Juang, &quot;A Study on Speaker Adaptation of the Parameters of Continuous Density Hidden Markov Models,&quot; <i>IEEE Trans. Acoustics, Speech and Signal Proc.</i>, Vol. ASSP-39, No. 4, pp. 806-814, April 1991.</span></li>
+	<li pbzloc="16"><span pbzloc="9" style="font-family: &quot;Times New Roman&quot;, serif; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">J.-L. Gauvain and C.-H. Lee, &quot;Maximum A Posteriori Estimation for Multivariate Gaussian Mixture Observations of Markov Chains,&quot; <i>IEEE Trans. on Speech and Audio Proc.</i>, Vol. 2, No. 2, pp. 291-298, April 1994.</span></li>
+	<li pbzloc="288">Q. Huo, and C.-H. Lee &quot;On-line Adaptive Learning of the Continuous Density Hidden Markov Model Based on Approximate Recursive Bayes Estimate,&quot; <em>IEEE Trans. on Speech and Audio Proc.</em>, Vol. 5, No. 2, <span pbzloc="42">pp. 161-172,&nbsp;March 1997.</span></li>
+	<li pbzloc="71"><span pbzloc="60" style="font-family: &quot;Times New Roman&quot;, serif; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Q. Huo and C.-H. Lee, &quot;On-line Adaptive Learning of the Correlated Continuous Density Hidden Markov Model for Speech Recognition,&quot; <i>IEEE Trans. on Speech and Audio Proc</i>., Vol. 6, No. 4, pp. 386-397, July 1998.</span></li>
+	<li pbzloc="35"><span pbzloc="49" style="font-family: &quot;Times New Roman&quot;, serif; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">Q. Huo and C.-H. Lee, &quot;A Bayesian Predictive Classification Approach to Robust Speech Recognition,&quot; <i>IEEE Trans. on Speech and Audio Proc</i>., Vol. 8, No. 2, pp. 200-204, March 2000.</span></li>
+	<li pbzloc="35"><span pbzloc="75" style="font-family: &quot;Times New Roman&quot;, serif; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">C.-H. Lee and Q. Huo, &quot;On Adaptive Decision Rules and Decision Parameter Adaptation for Automatic Speech Recognition,&quot; <i>Proceedings of the IEEE</i>, Vol. 88, No. 8, pp. 1241-1269, August 2000.</span></li>
+	<li pbzloc="35"><span pbzloc="155">K. Shinoda and C.-H. Lee, &quot;A Structural Bayes Approach to Speaker Adaptation,&quot; <em>IEEE Trans. on Speech and Audio Proc</em>., Vol. 9, No. 3, pp. 276-287, March 2001.</span></li>
+	<li pbzloc="35"><span pbzloc="127" style="font-family: &quot;Times New Roman&quot;, serif; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">O. Siohan, C. Chesta and C.-H. Lee, &quot;Joint Maximum a Posteriori Adaptation of Transformation and HMM Parameters,&quot; <i>IEEE Trans. on Speech and Audio Proc</i>., Vol. 9, No. 4, pp. 417-428, May 2001.</span></li>
+	<li pbzloc="99">O. Siohan, T. A. Myrvoll and C.-H. Lee, &quot;Structural Maximum A Posteriori Linear Regression for HMM Adaptation,&quot; <em>Computer Speech and Language</em>, Vol. 16, No. 1, pp. 5-24, Jan. 2002.</li>
+	<li pbzloc="92"><span pbzloc="124">S. Watanabe, Y. Minami, A. Nakamura, and N. Ueda, &quot;Application of Variational Bayesian Approach to Speech Recognition,&quot; NIPS, 2002.</span></li>
+	<li pbzloc="113">Z. Huang, S. M. Siniscalchi and C.-H. Lee, &ldquo;A Unified Approach to Transfer Learning of Deep Neural Networks with Applications to Speaker Adaptation in Automatic Speech Recognition,&rdquo; <em>Neurocomputing, </em>September 2016.</li>
+	<li pbzloc="123">Z. Huang, S. M. Siniscalchi, and C.-H. Lee, &ldquo;Bayesian Unsupervised Batch and Online Speaker Adaptation of Activation Function Parameters in Deep Models for Automatic Speech Recognition,&rdquo; <em>IEEE/ACM Trans. Audio, Speech and Language Proc.,</em> Vol. 25, No. 1, pp. 60-71, January 2017.</li>
+	<li pbzloc="121">Z. Huang, S. M. Siniscalchi, and C.-H. Lee, &ldquo;Hierarchical Bayesian Combinations of Plug-in Maximum A Posteriori Decoder in DNN-Based Speech Recognition and Speaker Adaptation,&rdquo; <em>Pattern Recognition Letters</em>, pp. 1-7, Vol. 98, No.1, 2017.</li>
+	<li pbzloc="103"><span pbzloc="118">S. Nakajima, K. Watanabe, M. Sugiyama,<em pbzloc="107">Variational Bayesian Learning Theory</em>, Cambridge University Press, 2019.</span></li>
+</ol>
+</div>
+</div>
 </div>
 
 
