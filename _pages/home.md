@@ -29,6 +29,7 @@ acknowledgements: ""
 
 <br />
 
+<hr />
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Tentative Schedule (A total of four and half hours after ASRU2023 at 14:00-18:30 on December 20)</h2>
@@ -116,52 +117,9 @@ acknowledgements: ""
   </div>
 </div>
 
-
-
-
-<!--       <li><b>Unpublished work</b>: All submissions must be in PDF format. The submissions must be formated using the <a style="color:#2980b9;font-weight:400;" href="https://2021.naacl.org/calls/style-and-formatting/">NAACL 2021 LaTeX style file</a>. Submissions are limited to 4 content pages, including all figures and tables; additional pages containing statements of acknowledgements and funding disclosures, and references are allowed. The maximum file size for submissions is 50MB. The CMT-based review process will be double-blind to avoid potential conflicts of interests.</li>
-    </ul>
-    <p>
-            In case of any issues, feel free to email the workshop organizers at: <a href="mailto:vigilworkshop@gmail.com">vigilworkshop@gmail.com</a>.
-    </p>
-    </div> -->
-<!-- </div> -->
+<br />
 
 <hr />
-
-<!--
-<div class="row">
-  <div class="col-xs-12">
-    <h2>Target Audience</h2>
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      Researchers, graduate students, and practitioners who are interested in Quantum Circuit Learning with Basic Knowledge of linear algebra and neural network training (e.g., gradient and back-propagation).
-      </p>
-    <p>
-      This tutorial aims to serve as a short lecture for researchers and students to access the emergent field of quantum neural networks from the viewpoint of the artificial intelligence community. The contents of this tutorial will provide sufficient backgrounds for participants to understand the motivation, research progress, opportunities, and ongoing challenges in quantum neural network-based speech and natural language processing. The outline of this tutorial is as follows:
-    </p>
-    <p>
-          <ul>
-  <li>I. Introduction and Motivation of Quantum Machine Learning and Quantum Computer </li>
-  <li>Principles of Quantum Mechanics and Tensor Network Foundation;</li>
-  <li>Introduction to Quantum Computing;</li>
-  <li>Quantum Machine Learning and Quantum Neural Networks;</li>
-  <li>II. The Fundamentals of Quantum Neural Networks </li>
-  <li>III. The Applications of Quantum Neural Networks for Speech and Language Processing </li>
-  <li>IV. Conclusion and Open Questions</li>
-          </ul>
-      </p><p>Anticipated target audience (introductory, intermediate, advanced) as well as expected number of attendees 
- Background:linear algebra, basic understanding of class neural networks for speech recognition and natural language processing. All technical details will be provided with references and clear illustration and explanation. 
-</p><p>We will provide Quantum Simulation Support and hands-on exercise through an open-source repository for the audience base on 5 qubits IBM Q devices.  </p>
-  </div>
-</div>
-<hr />
--->
-
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
