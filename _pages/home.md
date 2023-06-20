@@ -19,14 +19,13 @@ acknowledgements: ""
 
 <br />
 
-<div class="row">
+<hr />
+<div class="row" id="intro">
     <div class="col-xs-12">
-        <p>
-          Introduction
-        </p>
+        <h2>Introduction</h2>
+        <p>Since the first Bayesian learning paper was published in ICASSP1983 [1], we have witnessed quite a few studies in the next 20 years on extending Bayesian learning to maximum a posteriari (MAP) estimation hidden Markov model (HMM) [2-3]. Online adapation of HMM and correlated HMM [4-5] have followed. Next, the popular maximum likelihood linear regressiong (MLLR) adaptation approach was extended to MAPLR and joint estimation [9]. To handle unseen units, structural MAP (SMAP) was developed [8] and extended to SMAPLR [10]. Online adaptation is often referred to as temporal prior evolution while tree-based SMAP is also known as spatial prior evolution. In contrast to MAP, variational Bayesian [11] and Bayesian predictive classication [6]approaches have also been developed to extend from point MAP to overall Bayesian estimation. A review of Bayesian learning for speech and lanaguage processing can be found in [7], while a book on variational Bayeasian learning theory was also published [15]. More recently, Bayesian learning has been extended to handling DNN parameters [12-14]. We expect this direction to be extensively studied in the future, especially in the modern era of generative AI and large pre-trained models in which transfer learning becomes a viable tool to&nbsp;adapt general-purpose models to specific domains and applications.</p>
     </div>
 </div>
-
 
 <br />
 
@@ -309,17 +308,6 @@ acknowledgements: ""
     </div>
   </div>
 </div> 
-
-<!--
-<hr />
-<div class="row" id="intro">
-    <div class="col-xs-12">
-        <h2>Introduction</h2>
-        <p>The research of quantum machine learning is an emerging field that has flourished with the rapid development of quantum computing. In particular, quantum neural networks (QNNs), similar to classical neural networks, have already been applied in many large-scale machine learning tasks such as automatic speech recognition, speech enhancement, and natural language understanding. Despite the hardware limitation on noisy intermediate-scale quantum (NISQ) devices (5–50 qubits), the QNN based deep architectures, such as a randomized quantum convolutional neural network (QCNN) and variational quantum circuit (VQC), can be set up to attain competitive empirical results in experiments of speech and language processing. Moreover, more secured data privacy can be ensured by applying QNN based models.</p>
-        <p>Through IJCAI’s flagship and influence in AI research, we believe this tutorial can create the synergies and reinforce the momentum in advanced research and novel applications based on quantum computing and machine learning. This tutorial will provide an overview of the fundamentals of quantum mechanics, quantum machine learning and quantum neural networks. Then, we introduce the related applications in speech recognition and natural language understanding. In more detail, in the introduction part, we briefly introduce basic concepts of quantum computing, quantum mechanics and necessary multi-linear algebra associated with quantum technology. In the second section, we will discuss QNNs, especially based on variational quantum circuits (VQC) for QNNs. Finally, we provide several examples of employing VQC-QNN for speech recognition and natural language understanding.</p>
-    </div>
-</div>
--->
 
 <hr />
      
