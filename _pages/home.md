@@ -31,7 +31,7 @@ acknowledgements: ""
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Tentative Schedule (A total of 5 hours after ASRU2023 at 1-6pm on December 20)</h2>
+    <h2>Tentative Schedule (A total of four and half hours after ASRU2023 at 14:00-18:30 on December 20)</h2>
   </div>
 </div>
 
@@ -104,7 +104,7 @@ acknowledgements: ""
         <tr>
           <td> 16:00</td>
           <td>Poster Contributions</td>
-          <td></td>
+          <td>All participants</td>
         </tr>
         <tr>
           <td> 18:00</td>
