@@ -43,8 +43,8 @@ acknowledgements: ""
   <li>Six Invited Speakers (Key contributions to Bayesian Learning in speech and language processing in the last 40 years): Qiang Huo, Torbjørn Svendsen (or Olivier Siohan), Shinji Watanabe, Koichi Shinoda, Jen-Tzung Chien, Marco Siniscalchi (15 minutes each with a total of 90 minutes)</li>
   <li>Panel Discussion: all seven invited speakers as panelists (30 minutes)</li>
   <li>Break and Social Discussions (30 minutes)</li>
-  <li>Poster Session: 12-15 posters (120 minutes)</li>
-  <li>Workshop Dinner: hosted by the Organizer right after rhe Symposium</li>
+  <li>Poster Session: 12-15 posters (90 minutes)</li>
+  <li>Workshop Dinner: hosted by the Organizer right after the Symposium</li>
           </ul>
       </p>
   </div>
