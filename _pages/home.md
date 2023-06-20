@@ -390,13 +390,12 @@ acknowledgements: ""
 	<li>K. Shinoda and C.-H. Lee, "A Structural Bayes Approach to Speaker Adaptation," <i>IEEE Trans. on Speech and Audio Proc.</i>, Vol. 9, No. 3, pp. 276-287, March 2001.</li>
 	<li>>O. Siohan, C. Chesta and C.-H. Lee, "Joint Maximum a Posteriori Adaptation of Transformation and HMM Parameters," <i>IEEE Trans. on Speech and Audio Proc.</i>, Vol. 9, No. 4, pp. 417-428, May 2001.</li>
 	<li>O. Siohan, T. A. Myrvoll and C.-H. Lee, "Structural Maximum A Posteriori Linear Regression for HMM Adaptation," <i>Computer Speech and Language</i>, Vol. 16, No. 1, pp. 5-24, Jan. 2002.</li>
-	<li>S. Watanabe, Y. Minami, A. Nakamura, and N. Ueda, "Application of Variational Bayesian Approach to Speech Recognition," <i>NIPS</i>i>, 2002.</li>
+	<li>S. Watanabe, Y. Minami, A. Nakamura, and N. Ueda, "Application of Variational Bayesian Approach to Speech Recognition," <i>NIPS</i>, 2002.</li>
 	<li>Z. Huang, S. M. Siniscalchi and C.-H. Lee, "A Unified Approach to Transfer Learning of Deep Neural Networks with Applications to Speaker Adaptation in Automatic Speech Recognition," <i>Neurocomputing</i>, September 2016.</li>
 	<li>Z. Huang, S. M. Siniscalchi, and C.-H. Lee, "Bayesian Unsupervised Batch and Online Speaker Adaptation of Activation Function Parameters in Deep Models for Automatic Speech Recognition," <i>IEEE/ACM Trans. Audio, Speech and Language Proc.</i>, Vol. 25, No. 1, pp. 60-71, January 2017.</li>
 	<li>Z. Huang, S. M. Siniscalchi, and C.-H. Lee, "Hierarchical Bayesian Combinations of Plug-in Maximum A Posteriori Decoder in DNN-Based Speech Recognition and Speaker Adaptation,&rdquo; <i>Pattern Recognition Letters</i>, pp. 1-7, Vol. 98, No.1, 2017.</li>
 	<li>S. Nakajima, K. Watanabe, M. Sugiyama, "Variational Bayesian Learning Theory," <i>Cambridge University Press</i>, 2019.</li>
 </ol>
-</div>
 </div>
 </div>
 
