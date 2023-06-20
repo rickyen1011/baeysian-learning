@@ -265,7 +265,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://www.microsoft.com/en-us/research/people/jinyli/">Jinyu Li</a>
-      <h6>Microsoft Research</h6>
+      <h6>Microsoft</h6>
     </div>
   </div>
   
