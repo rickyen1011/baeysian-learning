@@ -322,7 +322,7 @@ acknowledgements: ""
 <div class="row">
   <div class="col-xs-12">
     <p>
-      Participants need to register separately from the main ASRU Workshop. A fee of USD$120 (covering Workshop, Proceedings, Break) is required for registering the Bayesian Symposium. ASRU participants are welcome to join this Celebration Workshop with an extra $100 (Satellite Workshop registration will be done separately from ASRU Workshop registration). Invited speakers are waived from paying registration fees
+      Participants need to register separately from the main ASRU Workshop. A fee of USD$120 (covering Workshop, Proceedings, Break) is required for registering the Bayesian Symposium. ASRU participants are welcome to join this Celebration Workshop with an extra $100 (Satellite Workshop registration will be done separately from ASRU Workshop registration). Invited speakers are waived from paying registration fees.
     </p>
   </div>
 </div>
