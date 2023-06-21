@@ -232,7 +232,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="https://huckiyang.github.io/">Chao-Han Huck Yang</a>
-      <h6>Georgia Insititue of Technology</h6>
+      <h6>Amazon Alexa Speech</h6>
     </div>
   </div>
   
@@ -242,7 +242,7 @@ acknowledgements: ""
     </a>
     <div class="people-name">
       <a href="http://mi.eng.cam.ac.uk/~cz277/">Chao Zhang</a>
-      <h6>Google</h6>
+      <h6>Tsinghua University</h6>
     </div>
   </div>
   
@@ -268,36 +268,6 @@ acknowledgements: ""
 </div> 
 
 <hr />
-     
-<!-- CfP -->
-<!--
-<div class="row" id="cfp">
-  <div class="col-xs-12">
-    <h2>Call for Papers</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-    <p>
-      The workshop welcomes papers on a range of topics related but not limited to:
-    </p>
-    <p>
-          <ul>
-  <li>Adaptors and adaptation;</li>
-  <li>Efficient parameter tuning;</li>
-  <li>Bayesian inference;</li>
-  <li>Zero shot and few shot learning;</li>
-  <li>Self supervised learning and data-efficient fine-tuning;</li>
-  <li>Instruction tuning;</li>
-  <li>In context learning;</li>
-  <li>Chain of thoughts;</li>
-  <li>Out of distributions;</li>
-  <li>Bayesian approaches for uncertainty estimation;</li>
-          </ul>
-      </p>
-  </div>
-</div>
--->
 
 <div class="row" id="publications">
   <div class="col-xs-12">
