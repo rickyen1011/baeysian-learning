@@ -58,57 +58,57 @@ acknowledgements: ""
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td> 13:00</td>
+          <td> 14:00</td>
           <td>Historical Perspective & Beyond</td>
           <td>C.-H. Lee</td>
         </tr>
         <tr>
-          <td> 13:30</td>
+          <td> 14:30</td>
           <td>Online and Correlated HMMs</td>
           <td>Q. Huo</td>
         </tr>
         <tr>
-          <td> 13:45</td>
+          <td> 14:45</td>
           <td>Joint MAP of LR and HMMs</td>
           <td>T. K. Svendsen</td>
         </tr>
         <tr>
-          <td> 14:00</td>
+          <td> 15:00</td>
           <td>Variational Bayesian Learning</td>
           <td>S. Watanabe</td>
         </tr>
         <tr>
-          <td> 14:15</td>
+          <td> 15:15</td>
           <td>Structural MAP for LR & HMMs</td>
           <td>K. Shinoda</td>
         </tr>
         <tr>
-          <td> 14:30</td>
+          <td> 15:30</td>
           <td>MAP for N-grams and Beyond</td>
           <td>J.-T. Chien</td>
         </tr>
         <tr>
-          <td> 14:45</td>
+          <td> 15:45</td>
           <td>MAP for DNN Parameters</td>
           <td>S.M. Siniscalchi</td>
         </tr>
         <tr>
-          <td> 15:00</td>
+          <td> 16:00</td>
           <td>Panel Discussion</td>
           <td>All 7 speakers</td>
         </tr>
         <tr>
-          <td> 15:30</td>
+          <td> 166:30</td>
           <td>Break</td>
           <td></td>
         </tr>
         <tr>
-          <td> 16:00</td>
+          <td> 17:00</td>
           <td>Poster Contributions</td>
           <td>All participants</td>
         </tr>
         <tr>
-          <td> 18:00</td>
+          <td> 18:30</td>
           <td>Closing</td>
           <td></td>
         </tr>
