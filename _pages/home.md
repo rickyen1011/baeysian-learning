@@ -8,7 +8,7 @@ bibtex: true
 paper: true
 acknowledgements: ""
 ---
-
+<img src="https://rickyen1011.github.io/bayesian-learning/static/img/people/post.png" />
 <br>
 <div class="row" id="dates">
   <div class="col-xs-12">
