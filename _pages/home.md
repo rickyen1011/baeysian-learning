@@ -25,7 +25,7 @@ acknowledgements: ""
 <hr />
 <div class="row" id="intro">
     <div class="col-xs-12">
-        <h2>Introduction</h2>
+        <h2 style="font-weight: bold;">Introduction</h2>
         <p>Since the first Bayesian learning paper was published in ICASSP1983 [1], we have witnessed quite a few studies in the next 20 years on extending Bayesian learning to maximum a posteriari (MAP) estimation hidden Markov model (HMM) [2-3]. Online adapation of HMM and correlated HMM [4-5] have followed. Next, the popular maximum likelihood linear regressiong (MLLR) adaptation approach was extended to MAPLR and joint estimation [9]. To handle unseen units, structural MAP (SMAP) was developed [8] and extended to SMAPLR [10]. Online adaptation is often referred to as temporal prior evolution while tree-based SMAP is also known as spatial prior evolution. In contrast to MAP, variational Bayesian [11] and Bayesian predictive classication [6] approaches have also been developed to extend from point MAP to overall Bayesian estimation. A review of Bayesian learning for speech and lanaguage processing can be found in [7], while a book on variational Bayeasian learning theory was also published [15]. More recently, Bayesian learning has been extended to handling DNN parameters [12-14]. We expect this direction to be extensively studied in the future, especially in the modern era of generative AI and large pre-trained models in which transfer learning becomes a viable tool to adapt general-purpose models to specific domains and applications.</p>
     </div>
 </div>
@@ -35,7 +35,7 @@ acknowledgements: ""
 <hr />
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>Tentative Schedule (A total of four and half hours after ASRU2023 at 14:00-18:30 on December 20)</h2>
+    <h2 style="font-weight: bold;">Tentative Schedule (A total of four and half hours after ASRU2023 at 14:00-18:30 on December 20)</h2>
   </div>
 </div>
 
@@ -126,7 +126,7 @@ acknowledgements: ""
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Honorary Committee Chair</h2>
+    <h2 style="font-weight: bold;">Honorary Committee Chair</h2>
   </div>
 </div>
 <div class="row">
@@ -145,7 +145,7 @@ acknowledgements: ""
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Invited Speakers</h2>
+    <h2 style="font-weight: bold;">Invited Speakers</h2>
   </div>
 </div>
 <div class="row">
@@ -215,7 +215,7 @@ acknowledgements: ""
 
 <div class="row" id="organizers">
   <div class="col-xs-12">
-    <h2>Organizers</h2>
+    <h2 style="font-weight: bold;">Organizers</h2>
   </div>
 </div>
 <div class="row">
@@ -274,7 +274,7 @@ acknowledgements: ""
 
 <div class="row" id="publications">
   <div class="col-xs-12">
-    <h2>Publications</h2>
+    <h2 style="font-weight: bold;">Publications</h2>
   </div>
 </div>
 <div class="row">
@@ -289,7 +289,7 @@ acknowledgements: ""
 
 <div class="row" id="registration">
   <div class="col-xs-12">
-    <h2>Registration</h2>
+    <h2 style="font-weight: bold;">Registration</h2>
   </div>
 </div>
 <div class="row">
@@ -304,7 +304,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>Selected Key References</h2>
+    <h2 style="font-weight: bold;">Selected Key References</h2>
   </div>
 </div>
 
