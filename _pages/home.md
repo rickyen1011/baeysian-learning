@@ -11,7 +11,7 @@ acknowledgements: ""
 <img src="https://rickyen1011.github.io/bayesian-learning/static/img/people/post.png" style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;"/>
+  width: 80%;"/>
 <br>
 <div class="row" id="dates">
   <div class="col-xs-12">
